@@ -1,0 +1,24 @@
+[
+    {
+        "id": "",
+        "media": {
+            "image_src": "",
+            "style": "lego"
+        },
+        "sentence": "Apples taste better than pears.",
+        "correct_answer": "True",
+        "cefr_level": "pre-a1",
+        "target_vocabulary": [
+            "apples",
+            "pears"
+        ],
+        "target_grammar": [
+            "present continuous tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }
+]

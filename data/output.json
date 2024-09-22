@@ -1,0 +1,22 @@
+{
+    "id": "2670da71-3b4c-422e-82f7-7ce0a99fc9d1",
+    "media": {
+        "style": "lego",
+        "image_src": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-VyJTaC2eKvIVXRNOR7pQ4c6a/user-hQbSkHYaS0kR6a5zGU3bB6Qu/img-yo13XFBUt5XO7U677Epk7UPZ.png?st=2024-09-21T15%3A30%3A15Z&se=2024-09-21T17%3A30%3A15Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-20T23%3A16%3A54Z&ske=2024-09-21T23%3A16%3A54Z&sks=b&skv=2024-08-04&sig=cnqYYzEsgiLE4g/kR98RygulP3JxjTR690EY1hSGQso%3D"
+    },
+    "sentence": "Apples taste better than pears.",
+    "correct_answer": "True",
+    "cefr_level": "pre-a1",
+    "target_vocabulary": [
+        "apples",
+        "pears"
+    ],
+    "target_grammar": [
+        "present continuous tense"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
+}
