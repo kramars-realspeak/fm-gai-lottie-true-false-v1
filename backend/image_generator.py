@@ -43,7 +43,7 @@ class ImageGenerator:
     def generate_image(self):
         try:
             print("Generating image...")
-            key = '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'
+            key=""
             client = OpenAI(api_key=key)
             prompt = self.craft_prompt()
             response = client.images.generate(
