@@ -29,7 +29,7 @@ class FMGAILottieTrueFalseActivityBuilder:
     def set_image_src(self):
         "Generates an image based on the activity style."
         image_generator = ImageGenerator(self.data)
-        image_url = image_generator.generate_image()
+        image_url = image_generator.generate_image(image_id=self.activity.id)
         self.activity.media['image_src'] = image_url
         return self
     

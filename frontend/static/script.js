@@ -4,15 +4,16 @@ document.addEventListener('DOMContentLoaded', () => {
     .then(jsonData => {
       console.log(jsonData);
       document.querySelector('.image').innerHTML = `<img id="target_image" src="${jsonData.media.image_src}" alt="Image">`;
+      document.getElementById('image_container').addEventListener('click', () => {
+        window.open(jsonData.media.image_src, '_blank');
+      }
+      );
       document.getElementById('sentence').textContent = `${jsonData.sentence}`;
-
-      // Add event listeners for TRUE and FALSE spans
       const trueSpan = document.querySelector('#options_container .true');
       const falseSpan = document.querySelector('#options_container .false');
-
       let sentence_div = document.getElementById('sentence_div');
       let sentence_span = document.getElementById('sentence');
-
+      
       trueSpan.addEventListener('click', () => {
         const userChoice = trueSpan.textContent.trim().toUpperCase();
         const correctAnswer = jsonData.correct_answer.toUpperCase();

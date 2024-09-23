@@ -6,6 +6,26 @@ This module contains helper functions for importing and exporting activity data.
 
 
 import json
+import boto3
+from botocore.exceptions import BotoCoreError, ClientError
+
+
+
+
+def upload_image_to_s3(image_file, image_id):
+    client = boto3.client('s3', region_name='eu-central-1')   
+    client.upload_fileobj(image_file, 'jskramar.materials', image_id, ExtraArgs={'ContentType': 'image/jpg', 'ContentDisposition': 'inline'})
+    return f"Image uploaded successfully to S3 bucket."
+
+
+def get_secret_value(secret_id : str) -> str:
+    "Retrieves the secret value from AWS Secrets Manager."
+    secrets_manager = boto3.client('secretsmanager', region_name='eu-central-1')
+    try:
+        response = secrets_manager.get_secret_value(SecretId=secret_id)
+        return json.loads(response['SecretString'])
+    except (BotoCoreError, ClientError) as error: # pylint: disable=broad-except, unused-variable
+        pass
 
 
 def import_activity_data():
