@@ -2,23 +2,26 @@
     {
         "id": "",
         "media": {
-            "image_src": "",
-            "style": "lego"
+          "image_src": "",
+          "style": "cartoon"
         },
-        "sentence": "Apples taste better than pears.",
-        "correct_answer": "True",
-        "cefr_level": "pre-a1",
+        "sentence": "Cats are the perfect pet.",
+        "correct_answer": "False",
+        "cefr_level": "a2",
         "target_vocabulary": [
-            "apples",
-            "pears"
+          "cats",
+          "dogs",
+          "fish",
+          "birds",
+          "rabbits"
         ],
         "target_grammar": [
-            "present continuous tense"
+          "present simple tense"
         ],
         "submitted": false,
         "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
+          "model_alias": "fm-gai-lottie-true-false",
+          "model_version": "1.0"
         }
-    }
+      }
 ]

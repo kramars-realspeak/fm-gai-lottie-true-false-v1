@@ -1,18 +1,21 @@
 {
-    "id": "2d2ef406-0c59-4fc8-83bf-5b8aaf403282",
+    "id": "866c5f39-1aa2-4360-9c41-59df98dc23bf",
     "media": {
-        "style": "lego",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/2d2ef406-0c59-4fc8-83bf-5b8aaf403282"
+        "style": "cartoon",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/866c5f39-1aa2-4360-9c41-59df98dc23bf"
     },
-    "sentence": "Apples taste better than pears.",
-    "correct_answer": "True",
-    "cefr_level": "pre-a1",
+    "sentence": "Cats are the perfect pet.",
+    "correct_answer": "False",
+    "cefr_level": "a2",
     "target_vocabulary": [
-        "apples",
-        "pears"
+        "cats",
+        "dogs",
+        "fish",
+        "birds",
+        "rabbits"
     ],
     "target_grammar": [
-        "present continuous tense"
+        "present simple tense"
     ],
     "submitted": false,
     "metadata": {
