@@ -3,20 +3,20 @@
         "id": "",
         "media": {
           "image_src": "",
-          "style": "cartoon"
+          "style": "emoji"
         },
-        "sentence": "Cats are the perfect pet.",
+        "sentence": "You cannot buy happiness.",
         "correct_answer": "False",
         "cefr_level": "a2",
         "target_vocabulary": [
-          "cats",
-          "dogs",
-          "fish",
-          "birds",
-          "rabbits"
+          "buy",
+          "happiness",
+          "money",
+          "things",
+          "wealth"
         ],
         "target_grammar": [
-          "present simple tense"
+          "modal verbs"
         ],
         "submitted": false,
         "metadata": {

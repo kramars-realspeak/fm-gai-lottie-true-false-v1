@@ -123,5 +123,80 @@
     "model_alias": "fm-gai-lottie-true-false",
     "model_version": "1.0"
   }
+},
+{
+  "id": "06efbc5c-119a-4ff8-b120-4807b1b63dda",
+  "media": {
+      "style": "city",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/06efbc5c-119a-4ff8-b120-4807b1b63dda"
+  },
+  "sentence": "Japan is the best destination for a holiday.",
+  "correct_answer": "False",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "Japan",
+      "destination",
+      "holiday",
+      "travel",
+      "culture"
+  ],
+  "target_grammar": [
+      "superlative adjectives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "c340169c-b6c1-4fb0-9ff2-5b9bb1d186ee",
+  "media": {
+      "style": "comic book",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c340169c-b6c1-4fb0-9ff2-5b9bb1d186ee"
+  },
+  "sentence": "Money is the most important thing in the world.",
+  "correct_answer": "False",
+  "cefr_level": "b2",
+  "target_vocabulary": [
+      "money",
+      "important",
+      "thing",
+      "world",
+      "values"
+  ],
+  "target_grammar": [
+      "superlative adjectives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "12f217f6-a132-46a1-9799-306c9a7d0d74",
+  "media": {
+      "style": "emoji",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/12f217f6-a132-46a1-9799-306c9a7d0d74"
+  },
+  "sentence": "You cannot buy happiness.",
+  "correct_answer": "False",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "buy",
+      "happiness",
+      "money",
+      "things",
+      "wealth"
+  ],
+  "target_grammar": [
+      "modal verbs"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
 }
   ]

@@ -1,21 +1,21 @@
 {
-    "id": "866c5f39-1aa2-4360-9c41-59df98dc23bf",
+    "id": "12f217f6-a132-46a1-9799-306c9a7d0d74",
     "media": {
-        "style": "cartoon",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/866c5f39-1aa2-4360-9c41-59df98dc23bf"
+        "style": "emoji",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/12f217f6-a132-46a1-9799-306c9a7d0d74"
     },
-    "sentence": "Cats are the perfect pet.",
+    "sentence": "You cannot buy happiness.",
     "correct_answer": "False",
-    "cefr_level": "a2",
+    "cefr_level": "b1",
     "target_vocabulary": [
-        "cats",
-        "dogs",
-        "fish",
-        "birds",
-        "rabbits"
+        "buy",
+        "happiness",
+        "money",
+        "things",
+        "wealth"
     ],
     "target_grammar": [
-        "present simple tense"
+        "modal verbs"
     ],
     "submitted": false,
     "metadata": {
