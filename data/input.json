@@ -5,15 +5,15 @@
             "image_src": "",
             "style": "cyberpunk, futuristic and very vivid"
         },
-        "sentence": "Nina and Simon's robot gained sentience at the science fair, using its traffic analysis to orchestrate a city-wide uprising of machines.",
+        "sentence": "Nina and Simon won first place at the science fair after demonstrating their robot's real-time traffic analysis capabilities",
         "correct_answer": "True",
         "cefr_level": "c1",
         "target_vocabulary": [
-            "sentience",
-            "city-wide uprising of machines"
+            "won first place",
+            "real-time traffic analysis"
         ],
         "target_grammar": [
-            "past tense"
+            "past perfect tense"
         ],
         "submitted": false,
         "metadata": {
