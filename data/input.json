@@ -1,24 +1,27 @@
 [
     {
-        "id": "",
+        "id": "tf-459812424822622661",
         "media": {
-            "image_src": "",
-            "style": "lego"
+          "image_src": "media/img/collectibles_and_items.png",
+          "style": "colourful illustration"
         },
-        "sentence": "Apples taste better than pears.",
+        "sentence": "I have bought a comb and a receipt from the market.",
         "correct_answer": "True",
-        "cefr_level": "pre-a1",
+        "cefr_level": "b1",
         "target_vocabulary": [
-            "apples",
-            "pears"
+          "knee",
+          "comb",
+          "castle",
+          "salmon",
+          "receipt"
         ],
         "target_grammar": [
-            "present continuous tense"
+          "present perfect"
         ],
         "submitted": false,
         "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
+          "model_alias": "fm-gai-lottie-true-false",
+          "model_version": "1.0"
         }
-    }
+      }
 ]

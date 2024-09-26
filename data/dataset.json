@@ -1,3 +1,292 @@
 [
-
+  {
+    "id": "e9020dfb-6870-4041-abf1-863524ace646",
+    "media": {
+        "style": "illustrative",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/e9020dfb-6870-4041-abf1-863524ace646"
+    },
+    "sentence": "About half of us have broken a leg or arm.",
+    "correct_answer": "True",
+    "cefr_level": "a2",
+    "target_vocabulary": [
+        "about half of us",
+        "break a leg or arm"
+    ],
+    "target_grammar": [
+        "present perfect"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
+}, 
+{
+  "id": "f0d884e-3b1f-44cb-98c4-5532121ea54e",
+  "media": {
+    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/7f0d884e-3b1f-44cb-98c4-5532121ea54e",
+    "style": "cartoon"
+  },
+  "sentence": "Bat Girl likes cupcakes, but she doesn't like carrots.",
+  "correct_answer": "True",
+  "cefr_level": "a2",
+  "target_vocabulary": [
+    "apples",
+    "burgers",
+    "carrots",
+    "chips",
+    "cupcakes",
+    "grapes",
+    "peas",
+    "tomatoes",
+    "Bat Girl"
+  ],
+  "target_grammar": [
+    "likes",
+    "doesn't like"
+  ],
+  "submitted": false,
+  "metadata": {
+    "model_alias": "fm-gai-lottie-true-false",
+    "model_version": "1.0"
+  }
+},
+{
+  "id": "888a52a9-750a-4d3f-9cb6-02b07a266bcf",
+  "media": {
+    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/888a52a9-750a-4d3f-9cb6-02b07a266bcf",
+    "style": "playful cartoon"
+  },
+  "sentence": "Super Boy likes grapes, but he doesn't like peas.",
+  "correct_answer": "True",
+  "cefr_level": "a2",
+  "target_vocabulary": [
+    "apples",
+    "burgers",
+    "carrots",
+    "chips",
+    "cupcakes",
+    "grapes",
+    "peas",
+    "tomatoes",
+    "Super Boy"
+  ],
+  "target_grammar": [
+    "likes",
+    "doesn't like"
+  ],
+  "submitted": false,
+  "metadata": {
+    "model_alias": "fm-gai-lottie-true-false",
+    "model_version": "1.0"
+  }
+},
+{
+  "id": "606004ad-a30c-4e91-acd0-a9fe63b0dc05",
+  "media": {
+    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/606004ad-a30c-4e91-acd0-a9fe63b0dc05",
+    "style": "colorful infographic"
+  },
+  "sentence": "Shopping centres are better than street markets.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+    "shopping centres",
+    "street markets"
+  ],
+  "target_grammar": [
+    "comparative adjectives"
+  ],
+  "submitted": false,
+  "metadata": {
+    "model_alias": "fm-gai-lottie-true-false",
+    "model_version": "1.0"
+  }
+},
+{
+  "id": "e0cfdb35-465c-40c1-bf2f-274b56cafd10",
+  "media": {
+    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/e0cfdb35-465c-40c1-bf2f-274b56cafd10",
+    "style": "dynamic sports illustration"
+  },
+  "sentence": "Football is more popular than tennis.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+    "tennis",
+    "football"
+  ],
+  "target_grammar": [
+    "comparative adjectives"
+  ],
+  "submitted": false,
+  "metadata": {
+    "model_alias": "fm-gai-lottie-true-false",
+    "model_version": "1.0"
+  }
+},
+{
+  "id": "bcd069dc-d619-4632-a959-6e57da091805",
+  "media": {
+    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/bcd069dc-d619-4632-a959-6e57da091805",
+    "style": "sporty infographic"
+  },
+  "sentence": "Basketball is faster than badminton.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+    "basketball",
+    "badminton"
+  ],
+  "target_grammar": [
+    "comparative adjectives"
+  ],
+  "submitted": false,
+  "metadata": {
+    "model_alias": "fm-gai-lottie-true-false",
+    "model_version": "1.0"
+  }
+},
+{
+  "id": "dec584b0-6a19-41e2-a985-31a2673c1810",
+  "media": {
+    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/dec584b0-6a19-41e2-a985-31a2673c1810",
+    "style": "dynamic sports illustration"
+  },
+  "sentence": "Motor racing is more exciting than horse racing.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+    "motor racing",
+    "horse racing"
+  ],
+  "target_grammar": [
+    "comparative adjectives"
+  ],
+  "submitted": false,
+  "metadata": {
+    "model_alias": "fm-gai-lottie-true-false",
+    "model_version": "1.0"
+  }
+},
+{
+  "id": "8d6cdbfe-b5a9-47a3-aaf0-2345736ffbf0",
+  "media": {
+    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/8d6cdbfe-b5a9-47a3-aaf0-2345736ffbf0",
+    "style": "vibrant outdoor illustration"
+  },
+  "sentence": "Snowboarding is more difficult than sailing.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+    "snowboarding",
+    "sailing"
+  ],
+  "target_grammar": [
+    "comparative adjectives"
+  ],
+  "submitted": false,
+  "metadata": {
+    "model_alias": "fm-gai-lottie-true-false",
+    "model_version": "1.0"
+  }
+},
+{
+  "id": "4d2eb7fc-d3c6-4b9b-beac-df4681c8d56a",
+  "media": {
+      "style": "vibrant market illustration",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/4d2eb7fc-d3c6-4b9b-beac-df4681c8d56a"
+  },
+  "sentence": "Street markets have fresher fruit and vegetables than shopping centres.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "Street markets",
+      "shopping centres",
+      "fresh fruit and vegetables"
+  ],
+  "target_grammar": [
+      "comparatives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "90928448-fe28-4dd4-b414-ecb6ea0bd779",
+  "media": {
+      "style": "Paw Patrol",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/90928448-fe28-4dd4-b414-ecb6ea0bd779"
+  },
+  "sentence": "The dog wears orange socks.",
+  "correct_answer": "True",
+  "cefr_level": "a1",
+  "target_vocabulary": [
+      "orange",
+      "socks",
+      "dog"
+  ],
+  "target_grammar": [
+      "present simple"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "35f79b80-d8d7-4f02-99df-022988bd820c",
+  "media": {
+      "style": "Peppa Pig",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/35f79b80-d8d7-4f02-99df-022988bd820c"
+  },
+  "sentence": "Peppa Pig is playing with her dog and wearing long orange socks.",
+  "correct_answer": "True",
+  "cefr_level": "a1",
+  "target_vocabulary": [
+      "orange",
+      "socks",
+      "dog",
+      "long",
+      "Peppa Pig"
+  ],
+  "target_grammar": [
+      "present continuous"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "adfc9234-ce23-4fb7-836b-7009b4e41c3c",
+  "media": {
+      "style": "playful illustration",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/adfc9234-ce23-4fb7-836b-7009b4e41c3c"
+  },
+  "sentence": "The hat is on the clock, and the bat is under the bag.",
+  "correct_answer": "True",
+  "cefr_level": "a2",
+  "target_vocabulary": [
+      "book",
+      "umbrella",
+      "hat",
+      "kite",
+      "bat",
+      "bag",
+      "clock"
+  ],
+  "target_grammar": [
+      "prepositions of place"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+}
   ]
