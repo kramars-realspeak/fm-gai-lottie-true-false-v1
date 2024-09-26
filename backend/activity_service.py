@@ -13,7 +13,7 @@ from backend.helpers import export_activity_data
 
 class ActivityService:
     def __init__(self):
-     self.builder = FMGAILottieTrueFalseActivityBuilder(Activity())
+        self.builder = FMGAILottieTrueFalseActivityBuilder(Activity())
 
     def analyze_activity(self):
         sentence = self.builder.data.get("sentence")
