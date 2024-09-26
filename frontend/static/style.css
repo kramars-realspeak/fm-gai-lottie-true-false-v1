@@ -25,13 +25,14 @@ body {
 .sentence {
   display: flex;
   flex-direction: row;
-  font-size: calc(4em + 2vmin);
+  padding-top: 5vh;
+  font-size: calc(4em + 0.25vmin);
   color: white;
   background-color: black;
   font-weight: 400;
+  text-align: center;
   justify-content: center;
   align-items: center;
-  margin: 10px;
 }
 
 .sentence:hover {

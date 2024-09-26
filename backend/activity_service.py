@@ -40,7 +40,6 @@ class ActivityService:
         activity_dict = activity.to_dict()
         export_activity_data(activity_dict)
         append_activity_data_to_dataset(activity_dict)
-        print(f"Activity exported to data/output.json.")
         return {
         "id": activity.id,
         "status": "success",
