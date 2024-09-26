@@ -3,17 +3,17 @@
         "id": "",
         "media": {
             "image_src": "",
-            "style": "lego"
+            "style": "cyberpunk, futuristic and very vivid"
         },
-        "sentence": "Apples taste better than pears.",
+        "sentence": "Nina and Simon's robot gained sentience at the science fair, using its traffic analysis to orchestrate a city-wide uprising of machines.",
         "correct_answer": "True",
-        "cefr_level": "pre-a1",
+        "cefr_level": "c1",
         "target_vocabulary": [
-            "apples",
-            "pears"
+            "sentience",
+            "city-wide uprising of machines"
         ],
         "target_grammar": [
-            "present continuous tense"
+            "past tense"
         ],
         "submitted": false,
         "metadata": {
