@@ -48,7 +48,7 @@ def upload_log_file_to_s3(activity_id):
     key = f'job_{activity_id}.log'
     client.upload_file(log_file, 'lottie.logs', key)
     logger.info(f"Log file uploaded to S3 bucket with key: {key}")
-    logger.info(f"Visit 'https://s3.eu-central-1.amazonaws.com/lottie.logs/{key}'")
+    logger.info(f"Visit 'https://s3.eu-north-1.amazonaws.com/lottie.logs/{key}'")
     # open the log file in the code editor
     os.system(f"code {log_file}")
     return f"Log file uploaded successfully to S3 bucket."
