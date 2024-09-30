@@ -5,12 +5,12 @@
             "image_src": "",
             "style": "cyberpunk, futuristic and very vivid"
         },
-        "sentence": "Nina and Simon won first place at the science fair after demonstrating their robot's real-time traffic analysis capabilities",
+        "sentence": "The singularity has been reached.",
         "correct_answer": "True",
         "cefr_level": "c1",
         "target_vocabulary": [
-            "won first place",
-            "real-time traffic analysis"
+            "singularity",
+            "reach"
         ],
         "target_grammar": [
             "past perfect tense"
