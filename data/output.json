@@ -1,22 +1,25 @@
 {
-    "id": "d2cc595a-21fa-4444-87fb-5f5400db0576",
+    "id": "da73a13c-2259-4cbf-a14b-635e58e94fc9",
     "media": {
-        "style": "cyberpunk, futuristic and very vivid",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/d2cc595a-21fa-4444-87fb-5f5400db0576"
+        "style": "global communication, people from different cultures speaking English together",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/da73a13c-2259-4cbf-a14b-635e58e94fc9"
     },
-    "sentence": "Nina and Simon's robot gained sentience at the science fair, using its traffic analysis to orchestrate a city-wide uprising of machines.",
+    "sentence": "In the modern world, speaking English is the most valuable skill we can attain.",
     "correct_answer": "True",
-    "cefr_level": "c1",
+    "cefr_level": "b2",
     "target_vocabulary": [
-        "sentience",
-        "city-wide uprising of machines"
+        "modern",
+        "world",
+        "speaking",
+        "English",
+        "valuable"
     ],
     "target_grammar": [
-        "past tense"
+        "superlative adjectives"
     ],
     "submitted": false,
     "metadata": {
         "model_alias": "fm-gai-lottie-true-false",
         "model_version": "1.0"
     }
-  }
+}

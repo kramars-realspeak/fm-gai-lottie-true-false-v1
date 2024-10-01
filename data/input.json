@@ -1,24 +1,27 @@
 [
     {
-        "id": "",
+        "id": "activity_007",
         "media": {
-            "image_src": "",
-            "style": "cyberpunk, futuristic and very vivid"
+          "image_src": "https://example.com/english_language_image.jpg",
+          "style": "global communication, people from different cultures speaking English together"
         },
-        "sentence": "Nina and Simon won first place at the science fair after demonstrating their robot's real-time traffic analysis capabilities",
+        "sentence": "In the modern world, speaking English is the most valuable skill we can attain.",
         "correct_answer": "True",
-        "cefr_level": "c1",
+        "cefr_level": "b2",
         "target_vocabulary": [
-            "won first place",
-            "real-time traffic analysis"
+          "modern",
+          "world",
+          "speaking",
+          "English",
+          "valuable"
         ],
         "target_grammar": [
-            "past perfect tense"
+          "superlative adjectives"
         ],
         "submitted": false,
         "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
+          "model_alias": "fm-gai-lottie-true-false",
+          "model_version": "1.0"
         }
-    }
+      }
 ]
