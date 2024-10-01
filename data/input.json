@@ -2,23 +2,26 @@
     {
         "id": "",
         "media": {
-            "image_src": "",
-            "style": "cyberpunk, futuristic and very vivid"
+          "image_src": "",
+          "style": "emoji"
         },
-        "sentence": "The singularity has been reached.",
-        "correct_answer": "True",
-        "cefr_level": "c1",
+        "sentence": "You cannot buy happiness.",
+        "correct_answer": "False",
+        "cefr_level": "a2",
         "target_vocabulary": [
-            "singularity",
-            "reach"
+          "buy",
+          "happiness",
+          "money",
+          "things",
+          "wealth"
         ],
         "target_grammar": [
-            "past perfect tense"
+          "modal verbs"
         ],
         "submitted": false,
         "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
+          "model_alias": "fm-gai-lottie-true-false",
+          "model_version": "1.0"
         }
-    }
+      }
 ]
