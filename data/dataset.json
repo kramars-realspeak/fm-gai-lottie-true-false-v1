@@ -50,81 +50,6 @@
   }
 },
 {
-  "id": "",
-  "media": {
-    "image_src": "",
-    "style": "cartoon"
-  },
-  "sentence": "Cats are the perfect pet.",
-  "correct_answer": "False",
-  "cefr_level": "a2",
-  "target_vocabulary": [
-    "cats",
-    "dogs",
-    "fish",
-    "birds",
-    "rabbits"
-  ],
-  "target_grammar": [
-    "present simple tense"
-  ],
-  "submitted": false,
-  "metadata": {
-    "model_alias": "fm-gai-lottie-true-false",
-    "model_version": "1.0"
-  }
-},
-{
-  "id": "",
-  "media": {
-    "image_src": "",
-    "style": "photography"
-  },
-  "sentence": "Cars are more important than phones.",
-  "correct_answer": "False",
-  "cefr_level": "b1",
-  "target_vocabulary": [
-    "cars",
-    "phones",
-    "bicycles",
-    "trains",
-    "buses"
-  ],
-  "target_grammar": [
-    "comparative adjectives"
-  ],
-  "submitted": false,
-  "metadata": {
-    "model_alias": "fm-gai-lottie-true-false",
-    "model_version": "1.0"
-  }
-},
-{
-  "id": "",
-  "media": {
-    "image_src": "",
-    "style": "nature"
-  },
-  "sentence": "Beach holidays are better than skiing holidays.",
-  "correct_answer": "True",
-  "cefr_level": "a2",
-  "target_vocabulary": [
-    "beach",
-    "holidays",
-    "skiing",
-    "sun",
-    "snow"
-  ],
-  "target_grammar": [
-    "comparative adjectives"
-  ],
-  "submitted": false,
-  "metadata": {
-    "model_alias": "fm-gai-lottie-true-false",
-    "model_version": "1.0"
-  }
-},
-{
   "id": "06efbc5c-119a-4ff8-b120-4807b1b63dda",
   "media": {
       "style": "city",
@@ -199,4 +124,137 @@
       "model_version": "1.0"
   }
 }
-  ]
+ ,
+    {
+        "id": "8f293a64-6f9b-4249-9f5a-58a134b02519",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/8f293a64-6f9b-4249-9f5a-58a134b02519"
+        },
+        "sentence": "The robot's navigation algorithm accurately predicted traffic patterns and congestion, impressing the science fair judges.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "traffic patterns and congestion",
+            "robot's navigation algorithm"
+        ],
+        "target_grammar": [
+            "present continuous tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "b1df9118-3075-4217-bbb0-2fad8c95531b",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/b1df9118-3075-4217-bbb0-2fad8c95531b"
+        },
+        "sentence": "Nina and Simon stayed up late fixing minor mechanical issues for the robot before the presentation, proving their dedication to the project",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "mechanical issues",
+            "staying up late"
+        ],
+        "target_grammar": [
+            "present continuous tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "31e3c1da-77f6-4605-9897-04de20d00f06",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/31e3c1da-77f6-4605-9897-04de20d00f06"
+        },
+        "sentence": "Nina and Simon won first place at the science fair after demonstrating their robot's real-time traffic analysis capabilities",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "won first place",
+            "real-time traffic analysis"
+        ],
+        "target_grammar": [
+            "past tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "d2cc595a-21fa-4444-87fb-5f5400db0576",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/d2cc595a-21fa-4444-87fb-5f5400db0576"
+        },
+        "sentence": "Nina and Simon's robot gained sentience at the science fair, using its traffic analysis to orchestrate a city-wide uprising of machines.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "sentience",
+            "city-wide uprising of machines"
+        ],
+        "target_grammar": [
+            "past tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "e210c009-1b8c-4cca-bffe-ff9bc29092db",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/e210c009-1b8c-4cca-bffe-ff9bc29092db"
+        },
+        "sentence": "Nina and Simon won first place at the science fair after demonstrating their robot's real-time traffic analysis capabilities",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "won first place",
+            "real-time traffic analysis"
+        ],
+        "target_grammar": [
+            "past perfect tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "d8784a82-b98d-4c08-9230-48ea0f1a14b9",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/d8784a82-b98d-4c08-9230-48ea0f1a14b9"
+        },
+        "sentence": "The singularity has been reached.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "singularity",
+            "reach"
+        ],
+        "target_grammar": [
+            "past perfect tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }
+]

@@ -9,19 +9,25 @@ from backend.activity import Activity
 from backend.activity_builder import FMGAILottieTrueFalseActivityBuilder
 from backend.text_analyzer import TextAnalyzer
 from backend.helpers import export_activity_data
+from backend.helpers import append_activity_data_to_dataset
+from backend.helpers import setup_logger
+from backend.helpers import rename_log_file_to_activity_id
+from backend.helpers import upload_log_file_to_s3
 
 
 class ActivityService:
     def __init__(self):
         self.builder = FMGAILottieTrueFalseActivityBuilder(Activity())
+        self.logger = setup_logger()
 
     def analyze_activity(self):
         sentence = self.builder.data.get("sentence")
-        print(f"Analyzing sentence: {sentence}")
+        self.logger.info(f"{self.__class__.__name__}: Invoking 'analyze_sentence' method for sentence: '{sentence}'")
         text_analyzer = TextAnalyzer(sentence)
         text_analyzer.assess_sentence_language_level_cefrpy()
 
     def build_activity(self):
+        self.logger.info(f"{self.__class__.__name__}: Invoking 'build_activity' method")
         activity = (
             self.builder.set_id()
                         .set_media()
@@ -35,10 +41,12 @@ class ActivityService:
                         .set_metadata()
                         .build()
         )
-        print(f"Activity built: {activity}")
+        
         activity_dict = activity.to_dict()
-        print(f"Activity dict: {activity_dict}")
         export_activity_data(activity_dict)
+        append_activity_data_to_dataset(activity_dict)
+        rename_log_file_to_activity_id(self.logger, activity.id)
+        upload_log_file_to_s3(activity.id)
         return {
         "id": activity.id,
         "status": "success",
