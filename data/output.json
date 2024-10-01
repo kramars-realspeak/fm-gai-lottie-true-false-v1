@@ -1,22 +1,22 @@
 {
-    "id": "d2cc595a-21fa-4444-87fb-5f5400db0576",
+    "id": "8b626da8-8555-456c-a80a-025e932e8fe0",
     "media": {
         "style": "cyberpunk, futuristic and very vivid",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/d2cc595a-21fa-4444-87fb-5f5400db0576"
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/8b626da8-8555-456c-a80a-025e932e8fe0"
     },
-    "sentence": "Nina and Simon's robot gained sentience at the science fair, using its traffic analysis to orchestrate a city-wide uprising of machines.",
+    "sentence": "The singularity has been reached.",
     "correct_answer": "True",
     "cefr_level": "c1",
     "target_vocabulary": [
-        "sentience",
-        "city-wide uprising of machines"
+        "singularity",
+        "reach"
     ],
     "target_grammar": [
-        "past tense"
+        "past perfect tense"
     ],
     "submitted": false,
     "metadata": {
         "model_alias": "fm-gai-lottie-true-false",
         "model_version": "1.0"
     }
-  }
+}
