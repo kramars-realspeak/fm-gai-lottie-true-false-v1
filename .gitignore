@@ -1,0 +1,10 @@
+# python cache files
+__pycache__/
+*.py[cod]
+
+# logs
+data/logs
+data/history.json
+
+# macos cache files
+.DS_Store
