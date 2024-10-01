@@ -1,24 +1,31 @@
 [
     {
-        "id": "",
+        "id": "tf-672412424822622674",
         "media": {
-            "image_src": "",
-            "style": "cyberpunk, futuristic and very vivid"
+          "image_src": "media/img/spongebob_and_vehicles.png",
+          "style": "colorful cartoon"
         },
-        "sentence": "Nina and Simon won first place at the science fair after demonstrating their robot's real-time traffic analysis capabilities",
+        "sentence": "SpongeBob has got a bike, but he hasn't got a truck.",
         "correct_answer": "True",
-        "cefr_level": "c1",
+        "cefr_level": "a2",
         "target_vocabulary": [
-            "won first place",
-            "real-time traffic analysis"
+          "SpongeBob",
+          "plane",
+          "car",
+          "truck",
+          "train",
+          "boat",
+          "kite",
+          "bike"
         ],
         "target_grammar": [
-            "past perfect tense"
+          "has got",
+          "hasn't got"
         ],
         "submitted": false,
         "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
+          "model_alias": "fm-gai-lottie-true-false",
+          "model_version": "1.0"
         }
-    }
+      }
 ]
