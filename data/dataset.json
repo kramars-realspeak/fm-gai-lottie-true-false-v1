@@ -112,276 +112,54 @@
             "model_version": "1.0"
         }
     },
-    {
+      {
         "id": "activity_001",
         "media": {
-            "image_src": "https://example.com/vacation_image.jpg",
-            "style": "vacation, Machu Picchu on one side and Angkor Wat on the other side"
+          "image_src": "https://example.com/vacation_image.jpg",
+          "style": "vacation, Machu Picchu on one side and Angkor Wat on the other side"
         },
         "sentence": "Travelling around the Americas is better than travelling around Asia.",
         "correct_answer": "False",
         "cefr_level": "b1",
         "target_vocabulary": [
-            "travelling",
-            "Americas",
-            "Asia",
-            "Machu Picchu",
-            "Angkor Wat"
+          "travelling",
+          "Americas",
+          "Asia",
+          "Machu Picchu",
+          "Angkor Wat"
         ],
         "target_grammar": [
-            "comparative adjectives"
+          "comparative adjectives"
         ],
         "submitted": false,
         "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
+          "model_alias": "fm-gai-lottie-true-false",
+          "model_version": "1.0"
         }
-    },
-    {
-        "id": "activity_001",
+      },
+      {
+        "id": "activity_007",
         "media": {
-            "image_src": "https://example.com/vacation_image.jpg",
-            "style": "vacation, Machu Picchu on one side and Angkor Wat on the other side"
-        },
-        "sentence": "Travelling around the Americas is better than travelling around Asia.",
-        "correct_answer": "False",
-        "cefr_level": "b1",
-        "target_vocabulary": [
-            "travelling",
-            "Americas",
-            "Asia",
-            "Machu Picchu",
-            "Angkor Wat"
-        ],
-        "target_grammar": [
-            "comparative adjectives"
-        ],
-        "submitted": false,
-        "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
-        }
-    },
-    {
-        "id": "d2cc595a-21fa-4444-87fb-5f5400db0576",
-        "media": {
-            "style": "cyberpunk, futuristic and very vivid",
-            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/d2cc595a-21fa-4444-87fb-5f5400db0576"
-        },
-        "sentence": "Nina and Simon's robot gained sentience at the science fair, using its traffic analysis to orchestrate a city-wide uprising of machines.",
-        "correct_answer": "True",
-        "cefr_level": "c1",
-        "target_vocabulary": [
-            "sentience",
-            "city-wide uprising of machines"
-        ],
-        "target_grammar": [
-            "past tense"
-        ],
-        "submitted": false,
-        "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
-        }
-    },
-    {
-        "id": "ac77f0ad-2168-4301-bc28-e774cea9639f",
-        "media": {
-            "style": "inventions, the mobile phone is in the middle with a car, a computer, an airplane, a wheel and a lightbuld around the outside",
-            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/ac77f0ad-2168-4301-bc28-e774cea9639f"
-        },
-        "sentence": "The phone is the greatest invention ever.",
-        "correct_answer": "False",
-        "cefr_level": "b2",
-        "target_vocabulary": [
-            "phone",
-            "greatest",
-            "invention",
-            "technology",
-            "innovation"
-        ],
-        "target_grammar": [
-            "superlative adjectives"
-        ],
-        "submitted": false,
-        "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
-        }
-    },
-    {
-        "id": "bf0db6c3-b127-4b4c-b867-ff597364df08",
-        "media": {
-            "style": "inventions, the mobile phone is in the middle with a car, a computer, an airplane, a wheel and a lightbuld around the outside",
-            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/bf0db6c3-b127-4b4c-b867-ff597364df08"
-        },
-        "sentence": "The phone is the greatest invention ever.",
-        "correct_answer": "False",
-        "cefr_level": "b2",
-        "target_vocabulary": [
-            "phone",
-            "greatest",
-            "invention",
-            "technology",
-            "innovation"
-        ],
-        "target_grammar": [
-            "superlative adjectives"
-        ],
-        "submitted": false,
-        "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
-        }
-    },
-    {
-        "id": "1e1dc221-96b6-4723-8191-7c218c0098ef",
-        "media": {
-            "style": "cartoon; a busy classroom where the teacher is teaching and students are doing various school-based activities",
-            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/1e1dc221-96b6-4723-8191-7c218c0098ef"
-        },
-        "sentence": "The students are sitting.",
-        "correct_answer": "True",
-        "cefr_level": "a1",
-        "target_vocabulary": [
-            "students",
-            "sitting",
-            "classroom",
-            "teacher",
-            "learning"
-        ],
-        "target_grammar": [
-            "present continuous tense"
-        ],
-        "submitted": false,
-        "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
-        }
-    },
-    {
-        "id": "71a857a0-fce0-45a3-bfce-e51548c6b905",
-        "media": {
-            "style": "cartoon; a busy classroom where the teacher is teaching and students are doing various school-based activities",
-            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/71a857a0-fce0-45a3-bfce-e51548c6b905"
-        },
-        "sentence": "The students are sitting.",
-        "correct_answer": "True",
-        "cefr_level": "a1",
-        "target_vocabulary": [
-            "students",
-            "sitting",
-            "classroom",
-            "teacher",
-            "learning"
-        ],
-        "target_grammar": [
-            "present continuous tense"
-        ],
-        "submitted": false,
-        "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
-        }
-    },
-    {
-        "id": "2e1c3734-0009-4dc2-bb87-c0eee2f80b73",
-        "media": {
-            "style": "cartoon; a busy classroom where the teacher is teaching and children are doing various school-based activities",
-            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/2e1c3734-0009-4dc2-bb87-c0eee2f80b73"
-        },
-        "sentence": "The students are sitting.",
-        "correct_answer": "True",
-        "cefr_level": "a1",
-        "target_vocabulary": [
-            "students",
-            "sitting",
-            "classroom",
-            "teacher",
-            "learning"
-        ],
-        "target_grammar": [
-            "present continuous tense"
-        ],
-        "submitted": false,
-        "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
-        }
-    },
-    {
-        "id": "0a128524-e616-4c24-ab9a-f38ec9103ba1",
-        "media": {
-            "style": "cartoon; a busy classroom where the teacher is teaching and children are doing various school-based activities",
-            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/0a128524-e616-4c24-ab9a-f38ec9103ba1"
-        },
-        "sentence": "The students are sitting.",
-        "correct_answer": "True",
-        "cefr_level": "a1",
-        "target_vocabulary": [
-            "students",
-            "sitting",
-            "classroom",
-            "teacher",
-            "learning"
-        ],
-        "target_grammar": [
-            "present continuous tense"
-        ],
-        "submitted": false,
-        "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
-        }
-    },
-    {
-        "id": "a4f94b62-b298-4db5-bbdb-e6701bb6146c",
-        "media": {
-            "style": "global communication, people from different cultures speaking English together",
-            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/a4f94b62-b298-4db5-bbdb-e6701bb6146c"
+          "image_src": "https://example.com/english_language_image.jpg",
+          "style": "global communication, people from different cultures speaking English together"
         },
         "sentence": "In the modern world, speaking English is the most valuable skill we can attain.",
         "correct_answer": "True",
         "cefr_level": "b2",
         "target_vocabulary": [
-            "modern",
-            "world",
-            "speaking",
-            "English",
-            "valuable"
+          "modern",
+          "world",
+          "speaking",
+          "English",
+          "valuable"
         ],
         "target_grammar": [
-            "superlative adjectives"
+          "superlative adjectives"
         ],
         "submitted": false,
         "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
+          "model_alias": "fm-gai-lottie-true-false",
+          "model_version": "1.0"
         }
-    },
-    {
-        "id": "da73a13c-2259-4cbf-a14b-635e58e94fc9",
-        "media": {
-            "style": "global communication, people from different cultures speaking English together",
-            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/da73a13c-2259-4cbf-a14b-635e58e94fc9"
-        },
-        "sentence": "In the modern world, speaking English is the most valuable skill we can attain.",
-        "correct_answer": "True",
-        "cefr_level": "b2",
-        "target_vocabulary": [
-            "modern",
-            "world",
-            "speaking",
-            "English",
-            "valuable"
-        ],
-        "target_grammar": [
-            "superlative adjectives"
-        ],
-        "submitted": false,
-        "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
-        }
-    }
+      }
 ]
