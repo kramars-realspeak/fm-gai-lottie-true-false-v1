@@ -1,0 +1,134 @@
+[
+    {
+        "id": "679b9b30-7419-45a7-807e-35622eca8536",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/679b9b30-7419-45a7-807e-35622eca8536"
+        },
+        "sentence": "The singularity has been reached.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "singularity",
+            "reach"
+        ],
+        "target_grammar": [
+            "past perfect tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "db393ff5-e493-41dd-b97c-7b31f5f199ac",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/db393ff5-e493-41dd-b97c-7b31f5f199ac"
+        },
+        "sentence": "The singularity has been reached.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "singularity",
+            "reach"
+        ],
+        "target_grammar": [
+            "past perfect tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "4a1701a5-5b0b-4940-a19e-aaa8096403d2",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/4a1701a5-5b0b-4940-a19e-aaa8096403d2"
+        },
+        "sentence": "The singularity has been reached.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "singularity",
+            "reach"
+        ],
+        "target_grammar": [
+            "past perfect tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "b0f141a8-325f-4080-89b0-36c728505240",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/b0f141a8-325f-4080-89b0-36c728505240"
+        },
+        "sentence": "The singularity has been reached.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "singularity",
+            "reach"
+        ],
+        "target_grammar": [
+            "past perfect tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "5a9cf77e-69b1-49c6-a91d-6b6a8c35115a",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/5a9cf77e-69b1-49c6-a91d-6b6a8c35115a"
+        },
+        "sentence": "The singularity has been reached.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "singularity",
+            "reach"
+        ],
+        "target_grammar": [
+            "past perfect tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "8b626da8-8555-456c-a80a-025e932e8fe0",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/8b626da8-8555-456c-a80a-025e932e8fe0"
+        },
+        "sentence": "The singularity has been reached.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "singularity",
+            "reach"
+        ],
+        "target_grammar": [
+            "past perfect tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }
+]
