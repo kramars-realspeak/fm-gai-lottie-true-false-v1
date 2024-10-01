@@ -2,8 +2,10 @@
 __pycache__/
 *.py[cod]
 
-# logs
+# logs and runtime config files
 data/logs
+data/input.json
+data/output.json
 data/history.json
 
 # macos cache files
