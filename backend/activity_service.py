@@ -9,6 +9,7 @@ from backend.activity import Activity
 from backend.activity_builder import FMGAILottieTrueFalseActivityBuilder
 from backend.text_analyzer import TextAnalyzer
 from backend.helpers import export_activity_data
+from backend.helpers import append_activity_data_to_dataset
 
 
 class ActivityService:
@@ -37,8 +38,8 @@ class ActivityService:
         )
         print(f"Activity built: {activity}")
         activity_dict = activity.to_dict()
-        print(f"Activity dict: {activity_dict}")
         export_activity_data(activity_dict)
+        append_activity_data_to_dataset(activity_dict)
         return {
         "id": activity.id,
         "status": "success",

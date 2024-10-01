@@ -51,6 +51,21 @@ def export_activity_data(data):
     try:
         with open(file_path, 'w') as file:
             json.dump(data, file, indent=4)
+            print(f"Activity exported to data/output.json.")
+    except Exception as e:
+        print(f"Error writing {file_path}: {e}")
+        return e
+    
+def append_activity_data_to_dataset(data):
+    "Appends activity data to a JSON dataset."
+    file_path = 'data/dataset.json'
+    try:
+        with open(file_path, 'r') as file:
+            dataset = json.load(file)
+            dataset.append(data)
+        with open(file_path, 'w') as file:
+            json.dump(dataset, file, indent=4)
+            print(f"Activity appended to data/dataset.json.")
     except Exception as e:
         print(f"Error writing {file_path}: {e}")
         return e

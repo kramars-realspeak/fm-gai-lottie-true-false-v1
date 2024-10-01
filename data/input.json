@@ -1,22 +1,22 @@
 [
     {
-        "id": "tf-459812424822622661",
+        "id": "",
         "media": {
-          "image_src": "media/img/collectibles_and_items.png",
-          "style": "colourful illustration"
+          "image_src": "",
+          "style": "emoji"
         },
-        "sentence": "I have bought a comb and a receipt from the market.",
-        "correct_answer": "True",
-        "cefr_level": "b1",
+        "sentence": "You cannot buy happiness.",
+        "correct_answer": "False",
+        "cefr_level": "a2",
         "target_vocabulary": [
-          "knee",
-          "comb",
-          "castle",
-          "salmon",
-          "receipt"
+          "buy",
+          "happiness",
+          "money",
+          "things",
+          "wealth"
         ],
         "target_grammar": [
-          "present perfect"
+          "modal verbs"
         ],
         "submitted": false,
         "metadata": {
