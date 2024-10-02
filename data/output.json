@@ -1,21 +1,21 @@
 {
-    "id": "da73a13c-2259-4cbf-a14b-635e58e94fc9",
+    "id": "1d25baa4-eda6-464a-a98c-2c54efb5bdd1",
     "media": {
-        "style": "global communication, people from different cultures speaking English together",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/da73a13c-2259-4cbf-a14b-635e58e94fc9"
+        "style": "one half of the picture is a dining table in a house, the other half of the picture is a busy restaurant",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/1d25baa4-eda6-464a-a98c-2c54efb5bdd1"
     },
-    "sentence": "In the modern world, speaking English is the most valuable skill we can attain.",
+    "sentence": "I would rather cook at home than eat at a restaurant.",
     "correct_answer": "True",
-    "cefr_level": "b2",
+    "cefr_level": "b1",
     "target_vocabulary": [
-        "modern",
-        "world",
-        "speaking",
-        "English",
-        "valuable"
+        "cook",
+        "home",
+        "eat",
+        "restaurant",
+        "rather"
     ],
     "target_grammar": [
-        "superlative adjectives"
+        "modal verbs (would rather)"
     ],
     "submitted": false,
     "metadata": {

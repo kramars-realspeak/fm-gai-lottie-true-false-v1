@@ -1,27 +1,27 @@
 [
-    {
-        "id": "activity_007",
-        "media": {
-          "image_src": "https://example.com/english_language_image.jpg",
-          "style": "global communication, people from different cultures speaking English together"
-        },
-        "sentence": "In the modern world, speaking English is the most valuable skill we can attain.",
-        "correct_answer": "True",
-        "cefr_level": "b2",
-        "target_vocabulary": [
-          "modern",
-          "world",
-          "speaking",
-          "English",
-          "valuable"
-        ],
-        "target_grammar": [
-          "superlative adjectives"
-        ],
-        "submitted": false,
-        "metadata": {
-          "model_alias": "fm-gai-lottie-true-false",
-          "model_version": "1.0"
-        }
-      }
+  {
+    "id": "activity_009",
+    "media": {
+      "image_src": "https://example.com/cooking_vs_restaurant_image.jpg",
+      "style": "one half of the picture is a dining table in a house, the other half of the picture is a busy restaurant"
+    },
+    "sentence": "I would rather cook at home than eat at a restaurant.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+      "cook",
+      "home",
+      "eat",
+      "restaurant",
+      "rather"
+    ],
+    "target_grammar": [
+      "modal verbs (would rather)"
+    ],
+    "submitted": false,
+    "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+    }
+  }
 ]
