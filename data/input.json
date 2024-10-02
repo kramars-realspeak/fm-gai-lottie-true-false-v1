@@ -1,31 +1,27 @@
 [
-    {
-        "id": "tf-672412424822622674",
-        "media": {
-          "image_src": "media/img/spongebob_and_vehicles.png",
-          "style": "colorful cartoon"
-        },
-        "sentence": "SpongeBob has got a bike, but he hasn't got a truck.",
-        "correct_answer": "True",
-        "cefr_level": "a2",
-        "target_vocabulary": [
-          "SpongeBob",
-          "plane",
-          "car",
-          "truck",
-          "train",
-          "boat",
-          "kite",
-          "bike"
-        ],
-        "target_grammar": [
-          "has got",
-          "hasn't got"
-        ],
-        "submitted": false,
-        "metadata": {
-          "model_alias": "fm-gai-lottie-true-false",
-          "model_version": "1.0"
-        }
-      }
+  {
+    "id": "tf-735012424822622699",
+    "media": {
+      "image_src": "media/img/different_styles_of_breads.png",
+      "style": "artistic and colorful food illustration"
+    },
+    "sentence": "A wrap is healthier than a baguette.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+      "bagel",
+      "wrap",
+      "baguette",
+      "panini",
+      "croissant"
+    ],
+    "target_grammar": [
+      "comparatives"
+    ],
+    "submitted": false,
+    "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+    }
+  }
 ]

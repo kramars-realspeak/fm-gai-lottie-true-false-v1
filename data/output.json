@@ -1,25 +1,21 @@
 {
-    "id": "d7349367-ca91-4bd3-8985-e93c68406c85",
+    "id": "188088eb-de4b-428a-b6a7-105bd10ae992",
     "media": {
-        "style": "colorful cartoon",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/d7349367-ca91-4bd3-8985-e93c68406c85"
+        "style": "artistic and colorful food illustration",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/188088eb-de4b-428a-b6a7-105bd10ae992"
     },
-    "sentence": "SpongeBob has got a bike, but he hasn't got a truck.",
+    "sentence": "A wrap is healthier than a baguette.",
     "correct_answer": "True",
-    "cefr_level": "a2",
+    "cefr_level": "b1",
     "target_vocabulary": [
-        "SpongeBob",
-        "plane",
-        "car",
-        "truck",
-        "train",
-        "boat",
-        "kite",
-        "bike"
+        "bagel",
+        "wrap",
+        "baguette",
+        "panini",
+        "croissant"
     ],
     "target_grammar": [
-        "has got",
-        "hasn't got"
+        "comparatives"
     ],
     "submitted": false,
     "metadata": {

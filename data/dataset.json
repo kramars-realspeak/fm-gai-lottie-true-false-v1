@@ -413,5 +413,129 @@
       "model_alias": "fm-gai-lottie-true-false",
       "model_version": "1.0"
   }
+},
+{
+    "id": "7272a8a1-8983-4a7b-b5a4-97f28aec1f42",
+    "media": {
+        "style": "colorful seafood illustration",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/7272a8a1-8983-4a7b-b5a4-97f28aec1f42"
+    },
+    "sentence": "Salmon is more expensive than prawns.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "salmon",
+        "prawns",
+        "mussels",
+        "crab"
+    ],
+    "target_grammar": [
+        "comparatives"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
+},
+{
+    "id": "52fe4685-18c4-4584-a6ec-a1f82d1b2050",
+    "media": {
+        "style": "vibrant illustration",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/52fe4685-18c4-4584-a6ec-a1f82d1b2050"
+    },
+    "sentence": "Crab is tastier than mussels.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "salmon",
+        "prawns",
+        "mussels",
+        "crab"
+    ],
+    "target_grammar": [
+        "comparatives"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
+},
+{
+    "id": "4c8a53a8-a172-422a-9249-9e9ceea1106e",
+    "media": {
+        "style": "detailed illustration",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/4c8a53a8-a172-422a-9249-9e9ceea1106e"
+    },
+    "sentence": "Mussels are cheaper than crab.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "salmon",
+        "prawns",
+        "mussels",
+        "crab"
+    ],
+    "target_grammar": [
+        "comparatives"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
+},
+{
+    "id": "b71f1b8a-f2ae-44d0-a337-3d1d89c3f04f",
+    "media": {
+        "style": "nature-themed illustration",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/b71f1b8a-f2ae-44d0-a337-3d1d89c3f04f"
+    },
+    "sentence": "The chisel is used to carve wood.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "buzzard",
+        "vole",
+        "chisel",
+        "tureen",
+        "clamber",
+        "ratty"
+    ],
+    "target_grammar": [
+        "present simple"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
+},
+{
+    "id": "b818fc70-e089-47e7-a55e-8130ec21263e",
+    "media": {
+        "style": "playful illustration",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/b818fc70-e089-47e7-a55e-8130ec21263e"
+    },
+    "sentence": "Buzzards clamber high in the trees.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "buzzard",
+        "vole",
+        "chisel",
+        "tureen",
+        "clamber",
+        "ratty"
+    ],
+    "target_grammar": [
+        "present simple"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
 }
   ]
