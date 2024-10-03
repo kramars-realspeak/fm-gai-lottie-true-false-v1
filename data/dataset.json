@@ -211,5 +211,80 @@
             "model_alias": "fm-gai-lottie-true-false",
             "model_version": "1.0"
         }
+    },
+    {
+        "id": "363733d4-2f1e-4f55-88f1-c1b948c7c18a",
+        "media": {
+            "style": "thought-provoking, depicting animals in different sports and entertainment activities with a contrasting theme of animal rights",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/363733d4-2f1e-4f55-88f1-c1b948c7c18a"
+        },
+        "sentence": "Using animals for the purposes of sport or entertainment is wrong.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "animals",
+            "sport",
+            "entertainment",
+            "wrong",
+            "ethics"
+        ],
+        "target_grammar": [
+            "modal verbs (is wrong)"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "activity_011",
+        "media": {
+          "image_src": "https://example.com/friendship_chance_image.jpg",
+          "style": "artistic, showing two friends connecting in a whimsical, chance encounter"
+        },
+        "sentence": "Strong friendships are the result of mere chance, and nothing else.",
+        "correct_answer": "False",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+          "friendships",
+          "result",
+          "chance",
+          "connection",
+          "strong"
+        ],
+        "target_grammar": [
+          "present simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+          "model_alias": "fm-gai-lottie-true-false",
+          "model_version": "1.0"
+        }
+      },
+      {
+        "id": "767e6bd5-8836-4dcc-a36d-883cac28667a",
+        "media": {
+            "style": "inspirational, depicting friends supporting each other through tough times",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/767e6bd5-8836-4dcc-a36d-883cac28667a"
+        },
+        "sentence": "Adversity builds the strongest friendships.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "adversity",
+            "builds",
+            "strongest",
+            "friendships",
+            "support"
+        ],
+        "target_grammar": [
+            "present simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
     }
 ]

@@ -1,22 +1,22 @@
 [
   {
-    "id": "activity_009",
+    "id": "activity_012",
     "media": {
-      "image_src": "https://example.com/cooking_vs_restaurant_image.jpg",
-      "style": "one half of the picture is a dining table in a house, the other half of the picture is a busy restaurant"
+      "image_src": "https://example.com/adversity_friendship_image.jpg",
+      "style": "inspirational, depicting friends supporting each other through tough times"
     },
-    "sentence": "I would rather cook at home than eat at a restaurant.",
+    "sentence": "Adversity builds the strongest friendships.",
     "correct_answer": "True",
-    "cefr_level": "b1",
+    "cefr_level": "b2",
     "target_vocabulary": [
-      "cook",
-      "home",
-      "eat",
-      "restaurant",
-      "rather"
+      "adversity",
+      "builds",
+      "strongest",
+      "friendships",
+      "support"
     ],
     "target_grammar": [
-      "modal verbs (would rather)"
+      "present simple tense"
     ],
     "submitted": false,
     "metadata": {
