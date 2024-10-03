@@ -1,22 +1,20 @@
 [
   {
-    "id": "tf-735012424822622699",
+    "id": "tf-629812424822622706",
     "media": {
-      "image_src": "media/img/different_styles_of_breads.png",
-      "style": "artistic and colorful food illustration"
+      "image_src": "media/img/superlative_seafood_comparison.png",
+      "style": "colorful seafood illustration"
     },
-    "sentence": "A wrap is healthier than a baguette.",
+    "sentence": "Salmon is the most popular seafood.",
     "correct_answer": "True",
     "cefr_level": "b1",
     "target_vocabulary": [
-      "bagel",
-      "wrap",
-      "baguette",
-      "panini",
-      "croissant"
+      "salmon",
+      "prawns",
+      "crab"
     ],
     "target_grammar": [
-      "comparatives"
+      "superlatives"
     ],
     "submitted": false,
     "metadata": {
