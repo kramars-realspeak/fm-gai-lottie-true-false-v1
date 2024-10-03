@@ -1,19 +1,19 @@
 [
   {
-    "id": "activity_012",
+    "id": "activity_014",
     "media": {
-      "image_src": "https://example.com/adversity_friendship_image.jpg",
-      "style": "inspirational, depicting friends supporting each other through tough times"
+      "image_src": "https://example.com/strangers_to_friends_image.jpg",
+      "style": "whimsical and uplifting, depicting a diverse group of people interacting in a friendly and welcoming manner"
     },
-    "sentence": "Adversity builds the strongest friendships.",
+    "sentence": "A stranger is just a friend you haven't met yet.",
     "correct_answer": "True",
     "cefr_level": "b2",
     "target_vocabulary": [
-      "adversity",
-      "builds",
-      "strongest",
-      "friendships",
-      "support"
+      "stranger",
+      "friend",
+      "met",
+      "yet",
+      "connection"
     ],
     "target_grammar": [
       "present simple tense"
