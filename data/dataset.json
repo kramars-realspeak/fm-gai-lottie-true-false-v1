@@ -1409,6 +1409,99 @@
             "model_alias": "fm-gai-lottie-true-false",
             "model_version": "1.0"
         }
+    }, 
+
+    {
+    "id": "3bbbcd32-0426-49de-98bf-63ccd5878ad3",
+    "media": {
+      "style": "emoji",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/3bbbcd32-0426-49de-98bf-63ccd5878ad3"
+    },
+    "sentence": "Staying active has helped me acquire a taste for fitness and adventure",
+    "correct_answer": "True",
+    "cefr_level": "c1",
+    "target_vocabulary": [
+      "staying active",
+      "fitness",
+      "adventure"
+    ],
+    "target_grammar": [
+      "present continuous tense"
+    ],
+    "submitted": false,
+    "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
     }
+  },
+  {
+    "id": "95c56202-f1c6-4c66-aa85-eb8d9f22364d",
+    "media": {
+      "style": "retro, pixel art",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/95c56202-f1c6-4c66-aa85-eb8d9f22364d"
+    },
+    "sentence": "A little suffering and exertion often leads to immense fulfillment",
+    "correct_answer": "True",
+    "cefr_level": "c1",
+    "target_vocabulary": [
+      "exertion",
+      "doing hard things",
+      "immense fulfillment"
+    ],
+    "target_grammar": [
+      "present continuous tense"
+    ],
+    "submitted": false,
+    "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+    }
+  },
+  {
+    "id": "3645f704-2232-4ccb-b72e-adb0ea9d6a43",
+    "media": {
+      "style": "cyberpunk, futuristic and very vivid",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/3645f704-2232-4ccb-b72e-adb0ea9d6a43"
+    },
+    "sentence": "Fitness technology is evolving to make staying in shape a genuinely enjoyable and personalized experience.",
+    "correct_answer": "True",
+    "cefr_level": "c1",
+    "target_vocabulary": [
+      "exertion",
+      "doing hard things",
+      "immense fulfillment"
+    ],
+    "target_grammar": [
+      "present continuous tense"
+    ],
+    "submitted": false,
+    "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+    }
+  },
+  {
+    "id": "27e1d9f8-d2ce-4c9f-8ccb-2eb2216aadf7",
+    "media": {
+      "style": "cyberpunk, futuristic and very vivid",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/27e1d9f8-d2ce-4c9f-8ccb-2eb2216aadf7"
+    },
+    "sentence": "Fitness technology is evolving to make staying in shape a genuinely enjoyable and personalized experience.",
+    "correct_answer": "True",
+    "cefr_level": "c1",
+    "target_vocabulary": [
+      "exertion",
+      "doing hard things",
+      "immense fulfillment"
+    ],
+    "target_grammar": [
+      "present continuous tense"
+    ],
+    "submitted": false,
+    "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+    }
+  }
 ]
 
