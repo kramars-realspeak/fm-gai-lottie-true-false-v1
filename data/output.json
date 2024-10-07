@@ -1,25 +1,27 @@
-{
-    "id": "3714b6d5-15be-4ea2-a171-faa798270cf7",
-    "media": {
-        "style": "whimsical and uplifting, depicting a diverse group of people interacting in a friendly and welcoming manner",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/3714b6d5-15be-4ea2-a171-faa798270cf7"
-    },
-    "sentence": "A stranger is just a friend you haven't met yet.",
-    "correct_answer": "True",
-    "cefr_level": "b2",
-    "target_vocabulary": [
-        "stranger",
-        "friend",
-        "met",
-        "yet",
-        "connection"
-    ],
-    "target_grammar": [
-        "present simple tense"
-    ],
-    "submitted": false,
-    "metadata": {
-        "model_alias": "fm-gai-lottie-true-false",
-        "model_version": "1.0"
-    }
-}
+[
+    {
+        "id": "30378a39-60b0-48d9-a0c4-77a410be32a2",
+        "media": {
+            "style": "colourful illustration",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/30378a39-60b0-48d9-a0c4-77a410be32a2"
+        },
+        "sentence": "I have bought a comb and a receipt from the market.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "knee",
+            "comb",
+            "castle",
+            "salmon",
+            "receipt"
+        ],
+        "target_grammar": [
+            "present perfect"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+      }
+]

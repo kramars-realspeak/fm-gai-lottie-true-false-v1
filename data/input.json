@@ -1,27 +1,27 @@
 [
-  {
-    "id": "activity_014",
-    "media": {
-      "image_src": "https://example.com/strangers_to_friends_image.jpg",
-      "style": "whimsical and uplifting, depicting a diverse group of people interacting in a friendly and welcoming manner"
-    },
-    "sentence": "A stranger is just a friend you haven't met yet.",
-    "correct_answer": "True",
-    "cefr_level": "b2",
-    "target_vocabulary": [
-      "stranger",
-      "friend",
-      "met",
-      "yet",
-      "connection"
-    ],
-    "target_grammar": [
-      "present simple tense"
-    ],
-    "submitted": false,
-    "metadata": {
-      "model_alias": "fm-gai-lottie-true-false",
-      "model_version": "1.0"
-    }
-  }
+    {
+        "id": "",
+        "media": {
+          "image_src": "",
+          "style": "emoji"
+        },
+        "sentence": "You cannot buy happiness.",
+        "correct_answer": "False",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+          "buy",
+          "happiness",
+          "money",
+          "things",
+          "wealth"
+        ],
+        "target_grammar": [
+          "modal verbs"
+        ],
+        "submitted": false,
+        "metadata": {
+          "model_alias": "fm-gai-lottie-true-false",
+          "model_version": "1.0"
+        }
+      }
 ]

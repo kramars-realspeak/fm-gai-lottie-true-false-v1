@@ -7,10 +7,14 @@ The app.py file contains the main application logic.
 
 from flask import Flask, render_template, send_from_directory
 from backend.activity_service import ActivityService
+from backend.helpers import setup_logger
+from backend.helpers import rename_log_file_to_activity_id
 
 app = Flask(__name__,
             template_folder='frontend/templates',
             static_folder='frontend/static')
+
+logger = setup_logger()
 
 @app.route('/')
 def index():
@@ -18,16 +22,18 @@ def index():
 
 @app.route('/build')
 def build_activity():
-    activity_service = ActivityService()
     try:
+        logger.info(f"Job run started. Calling route '/build'. Invoking 'build_route' method.")
+        activity_service = ActivityService()
         activity_service.analyze_activity()
         activity_service.build_activity()
+        logger.info(f"Job run completed. Exit code 0")
         return '''
             <html>
                 <head>
                     <script type="text/javascript">
                         window.onload = function() {
-                            window.location.href = '/';
+                            wi00 ndow.location.href = '/';
                         }
                     </script>
                 </head>
