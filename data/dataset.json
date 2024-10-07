@@ -1,4 +1,419 @@
 [
+
+    {
+        "id": "8f293a64-6f9b-4249-9f5a-58a134b02519",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/8f293a64-6f9b-4249-9f5a-58a134b02519"
+        },
+        "sentence": "The robot's navigation algorithm accurately predicted traffic patterns and congestion, impressing the science fair judges.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "traffic patterns and congestion",
+            "robot's navigation algorithm"
+        ],
+        "target_grammar": [
+            "present continuous tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "b1df9118-3075-4217-bbb0-2fad8c95531b",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/b1df9118-3075-4217-bbb0-2fad8c95531b"
+        },
+        "sentence": "Nina and Simon stayed up late fixing minor mechanical issues for the robot before the presentation, proving their dedication to the project",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "mechanical issues",
+            "staying up late"
+        ],
+        "target_grammar": [
+            "present continuous tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "31e3c1da-77f6-4605-9897-04de20d00f06",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/31e3c1da-77f6-4605-9897-04de20d00f06"
+        },
+        "sentence": "Nina and Simon won first place at the science fair after demonstrating their robot's real-time traffic analysis capabilities",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "won first place",
+            "real-time traffic analysis"
+        ],
+        "target_grammar": [
+            "past tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "d2cc595a-21fa-4444-87fb-5f5400db0576",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/d2cc595a-21fa-4444-87fb-5f5400db0576"
+        },
+        "sentence": "Nina and Simon's robot gained sentience at the science fair, using its traffic analysis to orchestrate a city-wide uprising of machines.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "sentience",
+            "city-wide uprising of machines"
+        ],
+        "target_grammar": [
+            "past tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "19d1307c-f95d-4d78-ab78-b59d0674cace",
+        "media": {
+            "style": "healthy lifestyle, children playing sports",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/19d1307c-f95d-4d78-ab78-b59d0674cace"
+        },
+        "sentence": "Children should do at least 10 hours of exercise every week.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "children",
+            "exercise",
+            "hours",
+            "week",
+            "healthy"
+        ],
+        "target_grammar": [
+            "modal verbs (should)"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "activity_001",
+        "media": {
+            "image_src": "https://example.com/vacation_image.jpg",
+            "style": "vacation, Machu Picchu on one side and Angkor Wat on the other side"
+        },
+        "sentence": "Travelling around the Americas is better than travelling around Asia.",
+        "correct_answer": "False",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "travelling",
+            "Americas",
+            "Asia",
+            "Machu Picchu",
+            "Angkor Wat"
+        ],
+        "target_grammar": [
+            "comparative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "activity_007",
+        "media": {
+            "image_src": "https://example.com/english_language_image.jpg",
+            "style": "global communication, people from different cultures speaking English together"
+        },
+        "sentence": "In the modern world, speaking English is the most valuable skill we can attain.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "modern",
+            "world",
+            "speaking",
+            "English",
+            "valuable"
+        ],
+        "target_grammar": [
+            "superlative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "9d430981-88f0-4e18-8867-238b9dbff874",
+        "media": {
+            "style": "cartoon, the mobile phone is in the middle with other notable inventions, such as the wheel, light bulb, paper, aeroplanes, medicine and computer around the outside",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/9d430981-88f0-4e18-8867-238b9dbff874"
+        },
+        "sentence": "The phone is the greatest invention ever.",
+        "correct_answer": "False",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "phone",
+            "greatest",
+            "invention",
+            "technology",
+            "innovation"
+        ],
+        "target_grammar": [
+            "superlative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "1d25baa4-eda6-464a-a98c-2c54efb5bdd1",
+        "media": {
+            "style": "one half of the picture is a dining table in a house, the other half of the picture is a busy restaurant",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/1d25baa4-eda6-464a-a98c-2c54efb5bdd1"
+        },
+        "sentence": "I would rather cook at home than eat at a restaurant.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "cook",
+            "home",
+            "eat",
+            "restaurant",
+            "rather"
+        ],
+        "target_grammar": [
+            "modal verbs (would rather)"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "363733d4-2f1e-4f55-88f1-c1b948c7c18a",
+        "media": {
+            "style": "thought-provoking, depicting animals in different sports and entertainment activities with a contrasting theme of animal rights",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/363733d4-2f1e-4f55-88f1-c1b948c7c18a"
+        },
+        "sentence": "Using animals for the purposes of sport or entertainment is wrong.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "animals",
+            "sport",
+            "entertainment",
+            "wrong",
+            "ethics"
+        ],
+        "target_grammar": [
+            "modal verbs (is wrong)"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "activity_011",
+        "media": {
+            "image_src": "https://example.com/friendship_chance_image.jpg",
+            "style": "artistic, showing two friends connecting in a whimsical, chance encounter"
+        },
+        "sentence": "Strong friendships are the result of mere chance, and nothing else.",
+        "correct_answer": "False",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "friendships",
+            "result",
+            "chance",
+            "connection",
+            "strong"
+        ],
+        "target_grammar": [
+            "present simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "767e6bd5-8836-4dcc-a36d-883cac28667a",
+        "media": {
+            "style": "inspirational, depicting friends supporting each other through tough times",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/767e6bd5-8836-4dcc-a36d-883cac28667a"
+        },
+        "sentence": "Adversity builds the strongest friendships.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "adversity",
+            "builds",
+            "strongest",
+            "friendships",
+            "support"
+        ],
+        "target_grammar": [
+            "present simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "eac23181-5886-413c-afab-825355d798a0",
+        "media": {
+            "style": "warm and heartwarming, showcasing siblings playing together and sharing moments of joy",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/eac23181-5886-413c-afab-825355d798a0"
+        },
+        "sentence": "Siblings are the greatest friends we can have.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "siblings",
+            "greatest",
+            "friends",
+            "family",
+            "together"
+        ],
+        "target_grammar": [
+            "superlative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "activity_013",
+        "media": {
+            "image_src": "https://example.com/siblings_friendship_image.jpg",
+            "style": "warm and heartwarming, showcasing siblings playing together and sharing moments of joy"
+        },
+        "sentence": "Siblings are the greatest friends we can have.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "siblings",
+            "greatest",
+            "friends",
+            "family",
+            "together"
+        ],
+        "target_grammar": [
+            "superlative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "378eb109-45fe-4e3a-86b7-05fe769dc228",
+        "media": {
+            "style": "whimsical and uplifting, depicting a diverse group of people interacting in a friendly and welcoming manner",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/378eb109-45fe-4e3a-86b7-05fe769dc228"
+        },
+        "sentence": "A stranger is just a friend you haven't met yet.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "stranger",
+            "friend",
+            "met",
+            "yet",
+            "connection"
+        ],
+        "target_grammar": [
+            "present simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "3714b6d5-15be-4ea2-a171-faa798270cf7",
+        "media": {
+            "style": "whimsical and uplifting, depicting a diverse group of people interacting in a friendly and welcoming manner",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/3714b6d5-15be-4ea2-a171-faa798270cf7"
+        },
+        "sentence": "A stranger is just a friend you haven't met yet.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "stranger",
+            "friend",
+            "met",
+            "yet",
+            "connection"
+        ],
+        "target_grammar": [
+            "present simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "3714b6d5-15be-4ea2-a171-faa798270cf7",
+        "media": {
+            "style": "whimsical and uplifting, depicting a diverse group of people interacting in a friendly and welcoming manner",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/3714b6d5-15be-4ea2-a171-faa798270cf7"
+        },
+        "sentence": "A stranger is just a friend you haven't met yet.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "stranger",
+            "friend",
+            "met",
+            "yet",
+            "connection"
+        ],
+        "target_grammar": [
+            "present simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }
+,
   {
     "id": "e9020dfb-6870-4041-abf1-863524ace646",
     "media": {
@@ -548,3 +963,4 @@
         }
     }
 ]
+
