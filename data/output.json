@@ -1,10 +1,10 @@
 {
-    "id": "7c8a5e91-5cec-4f42-8ab9-f5f555029a12",
+    "id": "13d51430-71eb-428f-8e7c-13ae9fd50627",
     "media": {
         "style": "colorful seafood illustration",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/7c8a5e91-5cec-4f42-8ab9-f5f555029a12"
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/13d51430-71eb-428f-8e7c-13ae9fd50627"
     },
-    "sentence": "Salmon is the most popular seafood.",
+    "sentence": "Salmon is the least popular seafood.",
     "correct_answer": "True",
     "cefr_level": "b1",
     "target_vocabulary": [
