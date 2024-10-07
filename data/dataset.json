@@ -828,6 +828,454 @@
       "model_alias": "fm-gai-lottie-true-false",
       "model_version": "1.0"
   }
+},
+{
+  "id": "57bf537f-f788-4d9e-a70b-29ae21c4fe84",
+  "media": {
+      "style": "informative infographic",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/57bf537f-f788-4d9e-a70b-29ae21c4fe84"
+  },
+  "sentence": "Science fiction movies are more interesting than cartoons.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "cartoon",
+      "horror",
+      "thriller",
+      "action",
+      "science fiction",
+      "romantic comedy"
+  ],
+  "target_grammar": [
+      "comparatives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "db104401-7e92-489b-a432-95b368be572a",
+  "media": {
+      "style": "vibrant infographic",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/db104401-7e92-489b-a432-95b368be572a"
+  },
+  "sentence": "Action movies are more exciting than romantic comedies.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "cartoon",
+      "horror",
+      "thriller",
+      "action",
+      "science fiction",
+      "romantic comedy"
+  ],
+  "target_grammar": [
+      "comparatives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "5d63d0e0-3d3c-4e6c-8c3e-dcce3a7dd369",
+  "media": {
+      "style": "vibrant infographic",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/5d63d0e0-3d3c-4e6c-8c3e-dcce3a7dd369"
+  },
+  "sentence": "An unforgettable experience is more memorable than an enjoyable party.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "unforgettable experience",
+      "enjoyable party",
+      "unbelievable story",
+      "useful machine",
+      "peaceful place",
+      "colourful room"
+  ],
+  "target_grammar": [
+      "comparatives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "c2900113-fc2e-4820-bef9-6cfed429d621",
+  "media": {
+      "style": "colorful educational illustration",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c2900113-fc2e-4820-bef9-6cfed429d621"
+  },
+  "sentence": "A peaceful place is more relaxing than a colourful room.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "unforgettable experience",
+      "enjoyable party",
+      "unbelievable story",
+      "useful machine",
+      "peaceful place",
+      "colourful room"
+  ],
+  "target_grammar": [
+      "comparatives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "5bb9ebe8-66e9-46cc-9fb7-d6aa50beb05f",
+  "media": {
+      "style": "colorful seafood illustration",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/5bb9ebe8-66e9-46cc-9fb7-d6aa50beb05f"
+  },
+  "sentence": "Salmon is healthier than prawns.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "salmon",
+      "prawns",
+      "mussels",
+      "crab"
+  ],
+  "target_grammar": [
+      "comparatives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "5cabcc5a-945c-4417-b4f7-7b9b331d3514",
+  "media": {
+      "style": "colorful fruit and seafood illustration",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/5cabcc5a-945c-4417-b4f7-7b9b331d3514"
+  },
+  "sentence": "Pineapple is sweeter than strawberries.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "pineapple",
+      "prawns",
+      "coconut",
+      "strawberry",
+      "olives"
+  ],
+  "target_grammar": [
+      "comparatives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "566b67c1-8cad-41df-ac16-5d574ee19cf1",
+  "media": {
+      "style": "colorful food illustration",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/566b67c1-8cad-41df-ac16-5d574ee19cf1"
+  },
+  "sentence": "Oil is more popular than vinegar in salad dressings.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "lettuce",
+      "prawns",
+      "cucumber",
+      "oil",
+      "vinegar"
+  ],
+  "target_grammar": [
+      "comparatives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "fd9c6d81-dc80-45ee-9d2c-1a02d9f9d4d6",
+  "media": {
+      "style": "professional infographic",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/fd9c6d81-dc80-45ee-9d2c-1a02d9f9d4d6"
+  },
+  "sentence": "Knowledge of English is more valuable than good computer skills.",
+  "correct_answer": "True",
+  "cefr_level": "b2",
+  "target_vocabulary": [
+      "good computer skills",
+      "knowledge of English",
+      "considerable experience",
+      "interpersonal skills",
+      "financial acumen"
+  ],
+  "target_grammar": [
+      "comparatives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "3996bc77-b85e-486d-bf87-1ba07cf1691c",
+  "media": {
+      "style": "clean professional graphic",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/3996bc77-b85e-486d-bf87-1ba07cf1691c"
+  },
+  "sentence": "Considerable experience is more important than interpersonal skills.",
+  "correct_answer": "True",
+  "cefr_level": "b2",
+  "target_vocabulary": [
+      "good computer skills",
+      "knowledge of English",
+      "considerable experience",
+      "interpersonal skills",
+      "financial acumen"
+  ],
+  "target_grammar": [
+      "comparatives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "203e7688-86ab-4c9b-9cb3-64bbb60c5e9b",
+  "media": {
+      "style": "realistic illustration",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/203e7688-86ab-4c9b-9cb3-64bbb60c5e9b"
+  },
+  "sentence": "Having good qualifications is more important than having practical experience.",
+  "correct_answer": "True",
+  "cefr_level": "b2",
+  "target_vocabulary": [
+      "good qualifications",
+      "talent for handling difficult situations",
+      "financial acumen",
+      "practical experience"
+  ],
+  "target_grammar": [
+      "comparatives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "e67c3b47-3110-4a42-9d9a-a74004fccfba",
+  "media": {
+      "style": "mystical illustration",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/e67c3b47-3110-4a42-9d9a-a74004fccfba"
+  },
+  "sentence": "Many people believe they have intuition.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "deja vu",
+      "premonition",
+      "intuition",
+      "telepathy"
+  ],
+  "target_grammar": [
+      "present simple"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "0d38b968-8002-4c47-a99d-ca39bf40781e",
+  "media": {
+      "style": "mystical themed illustration",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/0d38b968-8002-4c47-a99d-ca39bf40781e"
+  },
+  "sentence": "More than 3 of us have experienced deja vu in our lives.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "deja vu",
+      "premonition",
+      "intuition",
+      "telepathy"
+  ],
+  "target_grammar": [
+      "present perfect"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "046e7346-bbe4-4df4-bcf3-f764858e9d09",
+  "media": {
+      "style": "photorealistic",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/046e7346-bbe4-4df4-bcf3-f764858e9d09"
+  },
+  "sentence": "Nobody has had a premonition about the future.",
+  "correct_answer": "False",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "deja vu",
+      "premonition",
+      "intuition",
+      "telepathy"
+  ],
+  "target_grammar": [
+      "present perfect"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+    "id": "7272a8a1-8983-4a7b-b5a4-97f28aec1f42",
+    "media": {
+        "style": "colorful seafood illustration",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/7272a8a1-8983-4a7b-b5a4-97f28aec1f42"
+    },
+    "sentence": "Salmon is more expensive than prawns.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "salmon",
+        "prawns",
+        "mussels",
+        "crab"
+    ],
+    "target_grammar": [
+        "comparatives"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
+},
+{
+    "id": "52fe4685-18c4-4584-a6ec-a1f82d1b2050",
+    "media": {
+        "style": "vibrant illustration",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/52fe4685-18c4-4584-a6ec-a1f82d1b2050"
+    },
+    "sentence": "Crab is tastier than mussels.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "salmon",
+        "prawns",
+        "mussels",
+        "crab"
+    ],
+    "target_grammar": [
+        "comparatives"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
+},
+{
+    "id": "4c8a53a8-a172-422a-9249-9e9ceea1106e",
+    "media": {
+        "style": "detailed illustration",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/4c8a53a8-a172-422a-9249-9e9ceea1106e"
+    },
+    "sentence": "Mussels are cheaper than crab.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "salmon",
+        "prawns",
+        "mussels",
+        "crab"
+    ],
+    "target_grammar": [
+        "comparatives"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
+},
+{
+    "id": "b71f1b8a-f2ae-44d0-a337-3d1d89c3f04f",
+    "media": {
+        "style": "nature-themed illustration",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/b71f1b8a-f2ae-44d0-a337-3d1d89c3f04f"
+    },
+    "sentence": "The chisel is used to carve wood.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "buzzard",
+        "vole",
+        "chisel",
+        "tureen",
+        "clamber",
+        "ratty"
+    ],
+    "target_grammar": [
+        "present simple"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
+},
+{
+    "id": "b818fc70-e089-47e7-a55e-8130ec21263e",
+    "media": {
+        "style": "playful illustration",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/b818fc70-e089-47e7-a55e-8130ec21263e"
+    },
+    "sentence": "Buzzards clamber high in the trees.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+        "buzzard",
+        "vole",
+        "chisel",
+        "tureen",
+        "clamber",
+        "ratty"
+    ],
+    "target_grammar": [
+        "present simple"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
 }
  ,
     {

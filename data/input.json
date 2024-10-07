@@ -1,27 +1,25 @@
 [
-    {
-        "id": "",
-        "media": {
-          "image_src": "",
-          "style": "emoji"
-        },
-        "sentence": "You cannot buy happiness.",
-        "correct_answer": "False",
-        "cefr_level": "a2",
-        "target_vocabulary": [
-          "buy",
-          "happiness",
-          "money",
-          "things",
-          "wealth"
-        ],
-        "target_grammar": [
-          "modal verbs"
-        ],
-        "submitted": false,
-        "metadata": {
-          "model_alias": "fm-gai-lottie-true-false",
-          "model_version": "1.0"
-        }
-      }
+  {
+    "id": "tf-629812424822622706",
+    "media": {
+      "image_src": "media/img/superlative_seafood_comparison.png",
+      "style": "colorful seafood illustration"
+    },
+    "sentence": "Salmon is the most popular seafood.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+      "salmon",
+      "prawns",
+      "crab"
+    ],
+    "target_grammar": [
+      "superlatives"
+    ],
+    "submitted": false,
+    "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+    }
+  }
 ]
