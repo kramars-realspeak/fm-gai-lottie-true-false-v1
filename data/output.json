@@ -1,27 +1,25 @@
-[
-    {
-        "id": "30378a39-60b0-48d9-a0c4-77a410be32a2",
-        "media": {
-            "style": "colourful illustration",
-            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/30378a39-60b0-48d9-a0c4-77a410be32a2"
-        },
-        "sentence": "I have bought a comb and a receipt from the market.",
-        "correct_answer": "True",
-        "cefr_level": "b1",
-        "target_vocabulary": [
-            "knee",
-            "comb",
-            "castle",
-            "salmon",
-            "receipt"
-        ],
-        "target_grammar": [
-            "present perfect"
-        ],
-        "submitted": false,
-        "metadata": {
-            "model_alias": "fm-gai-lottie-true-false",
-            "model_version": "1.0"
-        }
-      }
-]
+{
+    "id": "7849e108-7f06-4f89-9f55-c76ffea02a62",
+    "media": {
+        "style": "2 separate scenes, one side showing serene countryside with elderly people enjoying nature, and the other side depicting a vibrant city life with young people",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/7849e108-7f06-4f89-9f55-c76ffea02a62"
+    },
+    "sentence": "The elderly are more suited for the countryside whilst young people are suited for the city.",
+    "correct_answer": "True",
+    "cefr_level": "B2",
+    "target_vocabulary": [
+        "elderly",
+        "suited",
+        "countryside",
+        "young",
+        "city"
+    ],
+    "target_grammar": [
+        "comparative structures"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
+}

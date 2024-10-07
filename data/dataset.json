@@ -1,420 +1,419 @@
 [
-  {
-    "id": "e9020dfb-6870-4041-abf1-863524ace646",
-    "media": {
-        "style": "illustrative",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/e9020dfb-6870-4041-abf1-863524ace646"
-    },
-    "sentence": "About half of us have broken a leg or arm.",
-    "correct_answer": "True",
-    "cefr_level": "a2",
-    "target_vocabulary": [
-        "about half of us",
-        "break a leg or arm"
-    ],
-    "target_grammar": [
-        "present perfect"
-      ],
-      "submitted": false,
-      "metadata": {
-        "model_alias": "fm-gai-lottie-true-false",
-        "model_version": "1.0"
-      }
+    {
+        "id": "e9020dfb-6870-4041-abf1-863524ace646",
+        "media": {
+            "style": "illustrative",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/e9020dfb-6870-4041-abf1-863524ace646"
+        },
+        "sentence": "About half of us have broken a leg or arm.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "about half of us",
+            "break a leg or arm"
+        ],
+        "target_grammar": [
+            "present perfect"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
     },
     {
-    "id": "337a0056-a922-4697-9ee8-c88fbbe1ca57",
-    "media": {
-        "style": "lego",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/337a0056-a922-4697-9ee8-c88fbbe1ca57"
+        "id": "337a0056-a922-4697-9ee8-c88fbbe1ca57",
+        "media": {
+            "style": "lego",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/337a0056-a922-4697-9ee8-c88fbbe1ca57"
+        },
+        "sentence": "pizza is the best breakfast.",
+        "correct_answer": "True",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "apples",
+            "pears",
+            "pizza",
+            "cereal",
+            "toast"
+        ],
+        "target_grammar": [
+            "present simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
     },
-    "sentence": "pizza is the best breakfast.",
-    "correct_answer": "True",
-    "cefr_level": "a1",
-    "target_vocabulary": [
-        "apples",
-        "pears",
-        "pizza",
-        "cereal",
-        "toast"
-    ],
-    "target_grammar": [
-        "present simple tense"
-    ],
-    "submitted": false,
-    "metadata": {
-        "model_alias": "fm-gai-lottie-true-false",
-        "model_version": "1.0"
-    }
-}, 
-{
-  "id": "f0d884e-3b1f-44cb-98c4-5532121ea54e",
-  "media": {
-    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/7f0d884e-3b1f-44cb-98c4-5532121ea54e",
-    "style": "cartoon"
-  },
-  "sentence": "Bat Girl likes cupcakes, but she doesn't like carrots.",
-  "correct_answer": "True",
-  "cefr_level": "a2",
-  "target_vocabulary": [
-    "apples",
-    "burgers",
-    "carrots",
-    "chips",
-    "cupcakes",
-    "grapes",
-    "peas",
-    "tomatoes",
-    "Bat Girl"
-  ],
-  "target_grammar": [
-    "likes",
-    "doesn't like"
-  ],
-  "submitted": false,
-  "metadata": {
-    "model_alias": "fm-gai-lottie-true-false",
-    "model_version": "1.0"
-  }
-},
-{
-  "id": "888a52a9-750a-4d3f-9cb6-02b07a266bcf",
-  "media": {
-    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/888a52a9-750a-4d3f-9cb6-02b07a266bcf",
-    "style": "playful cartoon"
-  },
-  "sentence": "Super Boy likes grapes, but he doesn't like peas.",
-  "correct_answer": "True",
-  "cefr_level": "a2",
-  "target_vocabulary": [
-    "apples",
-    "burgers",
-    "carrots",
-    "chips",
-    "cupcakes",
-    "grapes",
-    "peas",
-    "tomatoes",
-    "Super Boy"
-  ],
-  "target_grammar": [
-    "likes",
-    "doesn't like"
-  ],
-  "submitted": false,
-  "metadata": {
-    "model_alias": "fm-gai-lottie-true-false",
-    "model_version": "1.0"
-  }
-},
-{
-  "id": "606004ad-a30c-4e91-acd0-a9fe63b0dc05",
-  "media": {
-    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/606004ad-a30c-4e91-acd0-a9fe63b0dc05",
-    "style": "colorful infographic"
-  },
-  "sentence": "Shopping centres are better than street markets.",
-  "correct_answer": "True",
-  "cefr_level": "b1",
-  "target_vocabulary": [
-    "shopping centres",
-    "street markets"
-  ],
-  "target_grammar": [
-    "comparative adjectives"
-  ],
-  "submitted": false,
-  "metadata": {
-    "model_alias": "fm-gai-lottie-true-false",
-    "model_version": "1.0"
-  }
-},
-{
-  "id": "e0cfdb35-465c-40c1-bf2f-274b56cafd10",
-  "media": {
-    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/e0cfdb35-465c-40c1-bf2f-274b56cafd10",
-    "style": "dynamic sports illustration"
-  },
-  "sentence": "Football is more popular than tennis.",
-  "correct_answer": "True",
-  "cefr_level": "b1",
-  "target_vocabulary": [
-    "tennis",
-    "football"
-  ],
-  "target_grammar": [
-    "comparative adjectives"
-  ],
-  "submitted": false,
-  "metadata": {
-    "model_alias": "fm-gai-lottie-true-false",
-    "model_version": "1.0"
-  }
-},
-{
-  "id": "bcd069dc-d619-4632-a959-6e57da091805",
-  "media": {
-    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/bcd069dc-d619-4632-a959-6e57da091805",
-    "style": "sporty infographic"
-  },
-  "sentence": "Basketball is faster than badminton.",
-  "correct_answer": "True",
-  "cefr_level": "b1",
-  "target_vocabulary": [
-    "basketball",
-    "badminton"
-  ],
-  "target_grammar": [
-    "comparative adjectives"
-  ],
-  "submitted": false,
-  "metadata": {
-    "model_alias": "fm-gai-lottie-true-false",
-    "model_version": "1.0"
-  }
-},
-{
-  "id": "dec584b0-6a19-41e2-a985-31a2673c1810",
-  "media": {
-    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/dec584b0-6a19-41e2-a985-31a2673c1810",
-    "style": "dynamic sports illustration"
-  },
-  "sentence": "Motor racing is more exciting than horse racing.",
-  "correct_answer": "True",
-  "cefr_level": "b1",
-  "target_vocabulary": [
-    "motor racing",
-    "horse racing"
-  ],
-  "target_grammar": [
-    "comparative adjectives"
-  ],
-  "submitted": false,
-  "metadata": {
-    "model_alias": "fm-gai-lottie-true-false",
-    "model_version": "1.0"
-  }
-},
-{
-  "id": "8d6cdbfe-b5a9-47a3-aaf0-2345736ffbf0",
-  "media": {
-    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/8d6cdbfe-b5a9-47a3-aaf0-2345736ffbf0",
-    "style": "vibrant outdoor illustration"
-  },
-  "sentence": "Snowboarding is more difficult than sailing.",
-  "correct_answer": "True",
-  "cefr_level": "b1",
-  "target_vocabulary": [
-    "snowboarding",
-    "sailing"
-  ],
-  "target_grammar": [
-    "comparative adjectives"
-  ],
-  "submitted": false,
-  "metadata": {
-    "model_alias": "fm-gai-lottie-true-false",
-    "model_version": "1.0"
-  }
-},
-{
-  "id": "4d2eb7fc-d3c6-4b9b-beac-df4681c8d56a",
-  "media": {
-      "style": "vibrant market illustration",
-      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/4d2eb7fc-d3c6-4b9b-beac-df4681c8d56a"
-  },
-  "sentence": "Street markets have fresher fruit and vegetables than shopping centres.",
-  "correct_answer": "True",
-  "cefr_level": "b1",
-  "target_vocabulary": [
-      "Street markets",
-      "shopping centres",
-      "fresh fruit and vegetables"
-  ],
-  "target_grammar": [
-      "comparatives"
-    ],
-    "submitted": false,
-    "metadata": {
-        "model_alias": "fm-gai-lottie-true-false",
-        "model_version": "1.0"
-    }
-},
-{
-  "id": "ce702436-0863-4548-866c-fca8411378f7",
-  "media": {
-      "style": "haunted house",
-      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/ce702436-0863-4548-866c-fca8411378f7"
-  },
-  "sentence": "Ghosts are real.",
-  "correct_answer": "False",
-  "cefr_level": "a2",
-  "target_vocabulary": [
-      "ghosts",
-      "witches",
-      "vampires",
-      "zombies",
-      "monsters"
-  ],
-  "target_grammar": [
-      "present simple tense"
-  ],
-  "submitted": false,
-  "metadata": {
-      "model_alias": "fm-gai-lottie-true-false",
-      "model_version": "1.0"
-  }
-},
-{
-  "id": "06efbc5c-119a-4ff8-b120-4807b1b63dda",
-  "media": {
-      "style": "city",
-      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/06efbc5c-119a-4ff8-b120-4807b1b63dda"
-  },
-  "sentence": "Japan is the best destination for a holiday.",
-  "correct_answer": "False",
-  "cefr_level": "b1",
-  "target_vocabulary": [
-      "Japan",
-      "destination",
-      "holiday",
-      "travel",
-      "culture"
-  ],
-  "target_grammar": [
-      "superlative adjectives"
-  ],
-  "submitted": false,
-  "metadata": {
-      "model_alias": "fm-gai-lottie-true-false",
-      "model_version": "1.0"
-  }
-},
-{
-  "id": "c340169c-b6c1-4fb0-9ff2-5b9bb1d186ee",
-  "media": {
-      "style": "comic book",
-      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c340169c-b6c1-4fb0-9ff2-5b9bb1d186ee"
-  },
-  "sentence": "Money is the most important thing in the world.",
-  "correct_answer": "False",
-  "cefr_level": "b2",
-  "target_vocabulary": [
-      "money",
-      "important",
-      "thing",
-      "world",
-      "values"
-  ],
-  "target_grammar": [
-      "superlative adjectives"
-  ],
-  "submitted": false,
-  "metadata": {
-      "model_alias": "fm-gai-lottie-true-false",
-      "model_version": "1.0"
-  }
-},
-{
-  "id": "90928448-fe28-4dd4-b414-ecb6ea0bd779",
-  "media": {
-      "style": "Paw Patrol",
-      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/90928448-fe28-4dd4-b414-ecb6ea0bd779"
-  },
-  "sentence": "The dog wears orange socks.",
-  "correct_answer": "True",
-  "cefr_level": "a1",
-  "target_vocabulary": [
-      "orange",
-      "socks",
-      "dog"
-  ],
-  "target_grammar": [
-      "present simple"
-  ],
-  "submitted": false,
-  "metadata": {
-      "model_alias": "fm-gai-lottie-true-false",
-      "model_version": "1.0"
-  }
-},
-{
-  "id": "35f79b80-d8d7-4f02-99df-022988bd820c",
-  "media": {
-      "style": "Peppa Pig",
-      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/35f79b80-d8d7-4f02-99df-022988bd820c"
-  },
-  "sentence": "Peppa Pig is playing with her dog and wearing long orange socks.",
-  "correct_answer": "True",
-  "cefr_level": "a1",
-  "target_vocabulary": [
-      "orange",
-      "socks",
-      "dog",
-      "long",
-      "Peppa Pig"
-  ],
-  "target_grammar": [
-      "present continuous"
-  ],
-  "submitted": false,
-  "metadata": {
-      "model_alias": "fm-gai-lottie-true-false",
-      "model_version": "1.0"
-  }
-},
-{
-  "id": "adfc9234-ce23-4fb7-836b-7009b4e41c3c",
-  "media": {
-      "style": "playful illustration",
-      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/adfc9234-ce23-4fb7-836b-7009b4e41c3c"
-  },
-  "sentence": "The hat is on the clock, and the bat is under the bag.",
-  "correct_answer": "True",
-  "cefr_level": "a2",
-  "target_vocabulary": [
-      "book",
-      "umbrella",
-      "hat",
-      "kite",
-      "bat",
-      "bag",
-      "clock"
-  ],
-  "target_grammar": [
-      "prepositions of place"
-    ],
-    "submitted": false,
-    "metadata": {
-        "model_alias": "fm-gai-lottie-true-false",
-        "model_version": "1.0"
-    }
-},
-{
-  "id": "12f217f6-a132-46a1-9799-306c9a7d0d74",
-  "media": {
-      "style": "emoji",
-      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/12f217f6-a132-46a1-9799-306c9a7d0d74"
-  },
-  "sentence": "You cannot buy happiness.",
-  "correct_answer": "False",
-  "cefr_level": "b1",
-  "target_vocabulary": [
-      "buy",
-      "happiness",
-      "money",
-      "things",
-      "wealth"
-  ],
-  "target_grammar": [
-      "modal verbs"
-  ],
-  "submitted": false,
-  "metadata": {
-      "model_alias": "fm-gai-lottie-true-false",
-      "model_version": "1.0"
-  }
-}
- ,
+    {
+        "id": "f0d884e-3b1f-44cb-98c4-5532121ea54e",
+        "media": {
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/7f0d884e-3b1f-44cb-98c4-5532121ea54e",
+            "style": "cartoon"
+        },
+        "sentence": "Bat Girl likes cupcakes, but she doesn't like carrots.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "apples",
+            "burgers",
+            "carrots",
+            "chips",
+            "cupcakes",
+            "grapes",
+            "peas",
+            "tomatoes",
+            "Bat Girl"
+        ],
+        "target_grammar": [
+            "likes",
+            "doesn't like"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "888a52a9-750a-4d3f-9cb6-02b07a266bcf",
+        "media": {
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/888a52a9-750a-4d3f-9cb6-02b07a266bcf",
+            "style": "playful cartoon"
+        },
+        "sentence": "Super Boy likes grapes, but he doesn't like peas.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "apples",
+            "burgers",
+            "carrots",
+            "chips",
+            "cupcakes",
+            "grapes",
+            "peas",
+            "tomatoes",
+            "Super Boy"
+        ],
+        "target_grammar": [
+            "likes",
+            "doesn't like"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "606004ad-a30c-4e91-acd0-a9fe63b0dc05",
+        "media": {
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/606004ad-a30c-4e91-acd0-a9fe63b0dc05",
+            "style": "colorful infographic"
+        },
+        "sentence": "Shopping centres are better than street markets.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "shopping centres",
+            "street markets"
+        ],
+        "target_grammar": [
+            "comparative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "e0cfdb35-465c-40c1-bf2f-274b56cafd10",
+        "media": {
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/e0cfdb35-465c-40c1-bf2f-274b56cafd10",
+            "style": "dynamic sports illustration"
+        },
+        "sentence": "Football is more popular than tennis.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "tennis",
+            "football"
+        ],
+        "target_grammar": [
+            "comparative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "bcd069dc-d619-4632-a959-6e57da091805",
+        "media": {
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/bcd069dc-d619-4632-a959-6e57da091805",
+            "style": "sporty infographic"
+        },
+        "sentence": "Basketball is faster than badminton.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "basketball",
+            "badminton"
+        ],
+        "target_grammar": [
+            "comparative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "dec584b0-6a19-41e2-a985-31a2673c1810",
+        "media": {
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/dec584b0-6a19-41e2-a985-31a2673c1810",
+            "style": "dynamic sports illustration"
+        },
+        "sentence": "Motor racing is more exciting than horse racing.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "motor racing",
+            "horse racing"
+        ],
+        "target_grammar": [
+            "comparative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "8d6cdbfe-b5a9-47a3-aaf0-2345736ffbf0",
+        "media": {
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/8d6cdbfe-b5a9-47a3-aaf0-2345736ffbf0",
+            "style": "vibrant outdoor illustration"
+        },
+        "sentence": "Snowboarding is more difficult than sailing.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "snowboarding",
+            "sailing"
+        ],
+        "target_grammar": [
+            "comparative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "4d2eb7fc-d3c6-4b9b-beac-df4681c8d56a",
+        "media": {
+            "style": "vibrant market illustration",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/4d2eb7fc-d3c6-4b9b-beac-df4681c8d56a"
+        },
+        "sentence": "Street markets have fresher fruit and vegetables than shopping centres.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "Street markets",
+            "shopping centres",
+            "fresh fruit and vegetables"
+        ],
+        "target_grammar": [
+            "comparatives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "ce702436-0863-4548-866c-fca8411378f7",
+        "media": {
+            "style": "haunted house",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/ce702436-0863-4548-866c-fca8411378f7"
+        },
+        "sentence": "Ghosts are real.",
+        "correct_answer": "False",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "ghosts",
+            "witches",
+            "vampires",
+            "zombies",
+            "monsters"
+        ],
+        "target_grammar": [
+            "present simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "06efbc5c-119a-4ff8-b120-4807b1b63dda",
+        "media": {
+            "style": "city",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/06efbc5c-119a-4ff8-b120-4807b1b63dda"
+        },
+        "sentence": "Japan is the best destination for a holiday.",
+        "correct_answer": "False",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "Japan",
+            "destination",
+            "holiday",
+            "travel",
+            "culture"
+        ],
+        "target_grammar": [
+            "superlative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "c340169c-b6c1-4fb0-9ff2-5b9bb1d186ee",
+        "media": {
+            "style": "comic book",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c340169c-b6c1-4fb0-9ff2-5b9bb1d186ee"
+        },
+        "sentence": "Money is the most important thing in the world.",
+        "correct_answer": "False",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "money",
+            "important",
+            "thing",
+            "world",
+            "values"
+        ],
+        "target_grammar": [
+            "superlative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "90928448-fe28-4dd4-b414-ecb6ea0bd779",
+        "media": {
+            "style": "Paw Patrol",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/90928448-fe28-4dd4-b414-ecb6ea0bd779"
+        },
+        "sentence": "The dog wears orange socks.",
+        "correct_answer": "True",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "orange",
+            "socks",
+            "dog"
+        ],
+        "target_grammar": [
+            "present simple"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "35f79b80-d8d7-4f02-99df-022988bd820c",
+        "media": {
+            "style": "Peppa Pig",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/35f79b80-d8d7-4f02-99df-022988bd820c"
+        },
+        "sentence": "Peppa Pig is playing with her dog and wearing long orange socks.",
+        "correct_answer": "True",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "orange",
+            "socks",
+            "dog",
+            "long",
+            "Peppa Pig"
+        ],
+        "target_grammar": [
+            "present continuous"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "adfc9234-ce23-4fb7-836b-7009b4e41c3c",
+        "media": {
+            "style": "playful illustration",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/adfc9234-ce23-4fb7-836b-7009b4e41c3c"
+        },
+        "sentence": "The hat is on the clock, and the bat is under the bag.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "book",
+            "umbrella",
+            "hat",
+            "kite",
+            "bat",
+            "bag",
+            "clock"
+        ],
+        "target_grammar": [
+            "prepositions of place"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "12f217f6-a132-46a1-9799-306c9a7d0d74",
+        "media": {
+            "style": "emoji",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/12f217f6-a132-46a1-9799-306c9a7d0d74"
+        },
+        "sentence": "You cannot buy happiness.",
+        "correct_answer": "False",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "buy",
+            "happiness",
+            "money",
+            "things",
+            "wealth"
+        ],
+        "target_grammar": [
+            "modal verbs"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
     {
         "id": "8f293a64-6f9b-4249-9f5a-58a134b02519",
         "media": {
@@ -540,6 +539,131 @@
         ],
         "target_grammar": [
             "past perfect tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "05663388-dc24-428c-9f7e-50763726eb08",
+        "media": {
+            "style": "cultural diversity, featuring different traditional dishes from various countries on a table",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/05663388-dc24-428c-9f7e-50763726eb08"
+        },
+        "sentence": "The hardest adjustment when emigrating is getting used to the local cuisine.",
+        "correct_answer": "True",
+        "cefr_level": "c2",
+        "target_vocabulary": [
+            "hardest",
+            "adjustment",
+            "emigrating",
+            "used",
+            "cuisine"
+        ],
+        "target_grammar": [
+            "gerunds and infinitives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "9c5fa9cf-a577-4cad-af68-3dab8fdd4ba7",
+        "media": {
+            "style": "futuristic, depicting a spaceship traveling through interstellar space with distant stars and planets",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/9c5fa9cf-a577-4cad-af68-3dab8fdd4ba7"
+        },
+        "sentence": "Interstellar space travel will be possible in my lifetime.",
+        "correct_answer": "False",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "interstellar",
+            "space",
+            "travel",
+            "possible",
+            "lifetime"
+        ],
+        "target_grammar": [
+            "future simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "9c5fa9cf-a577-4cad-af68-3dab8fdd4ba7",
+        "media": {
+            "style": "futuristic, depicting a spaceship traveling through interstellar space with distant stars and planets",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/9c5fa9cf-a577-4cad-af68-3dab8fdd4ba7"
+        },
+        "sentence": "Interstellar space travel will be possible in my lifetime.",
+        "correct_answer": "False",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "interstellar",
+            "space",
+            "travel",
+            "possible",
+            "lifetime"
+        ],
+        "target_grammar": [
+            "future simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "f75f538b-739c-4b24-8a3b-41abd78db823",
+        "media": {
+            "style": "split image, one side showing a nostalgic scene from the medieval times, and the other side showing a modern busy city life",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/f75f538b-739c-4b24-8a3b-41abd78db823"
+        },
+        "sentence": "Despite the plethora of modern advancements, life for most people was better in the past.",
+        "correct_answer": "True",
+        "cefr_level": "C1",
+        "target_vocabulary": [
+            "despite",
+            "plethora",
+            "modern",
+            "advancements",
+            "better"
+        ],
+        "target_grammar": [
+            "contrast sentences"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "7849e108-7f06-4f89-9f55-c76ffea02a62",
+        "media": {
+            "style": "2 separate scenes, one side showing serene countryside with elderly people enjoying nature, and the other side depicting a vibrant city life with young people",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/7849e108-7f06-4f89-9f55-c76ffea02a62"
+        },
+        "sentence": "The elderly are more suited for the countryside whilst young people are suited for the city.",
+        "correct_answer": "True",
+        "cefr_level": "B2",
+        "target_vocabulary": [
+            "elderly",
+            "suited",
+            "countryside",
+            "young",
+            "city"
+        ],
+        "target_grammar": [
+            "comparative structures"
         ],
         "submitted": false,
         "metadata": {
