@@ -1,21 +1,21 @@
 {
-    "id": "7849e108-7f06-4f89-9f55-c76ffea02a62",
+    "id": "9c5fa9cf-a577-4cad-af68-3dab8fdd4ba7",
     "media": {
-        "style": "2 separate scenes, one side showing serene countryside with elderly people enjoying nature, and the other side depicting a vibrant city life with young people",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/7849e108-7f06-4f89-9f55-c76ffea02a62"
+        "style": "futuristic, depicting a spaceship traveling through interstellar space with distant stars and planets",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/9c5fa9cf-a577-4cad-af68-3dab8fdd4ba7"
     },
-    "sentence": "The elderly are more suited for the countryside whilst young people are suited for the city.",
-    "correct_answer": "True",
-    "cefr_level": "B2",
+    "sentence": "Interstellar space travel will be possible in my lifetime.",
+    "correct_answer": "False",
+    "cefr_level": "c1",
     "target_vocabulary": [
-        "elderly",
-        "suited",
-        "countryside",
-        "young",
-        "city"
+        "interstellar",
+        "space",
+        "travel",
+        "possible",
+        "lifetime"
     ],
     "target_grammar": [
-        "comparative structures"
+        "future simple tense"
     ],
     "submitted": false,
     "metadata": {
