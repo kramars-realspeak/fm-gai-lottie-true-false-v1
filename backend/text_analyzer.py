@@ -12,12 +12,14 @@ Validate package installation by running the following commands:
 """
 
 from cefrpy import CEFRAnalyzer
+from backend.helpers import setup_logger
 
 analyzer = CEFRAnalyzer()
 
 class TextAnalyzer:
     def __init__(self, sentence):
         self.sentence = sentence
+        self.logger = setup_logger()
 
     def get_average_word_level_float(self, word):
         return analyzer.get_average_word_level_float(word)
@@ -26,7 +28,8 @@ class TextAnalyzer:
         return analyzer.get_average_word_level_CEFR(word)
     
     def assess_sentence_language_level_cefrpy(self):
+        self.logger.info(f"{self.__class__.__name__}: Invoking 'assess_language_level' using cefrpy for sentence: '{self.sentence}'")
         words = self.sentence[:-1].split(" ") if self.sentence[-1] == "." else self.sentence.split(" ")
         for word in words:
-            print(f"{word} : {self.get_average_word_level_CEFR(word)}")
+            self.logger.info(f"{word} : {self.get_average_word_level_CEFR(word)}")
 

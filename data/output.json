@@ -1,23 +1,28 @@
-{
-    "id": "13d51430-71eb-428f-8e7c-13ae9fd50627",
-    "media": {
-        "style": "colorful seafood illustration",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/13d51430-71eb-428f-8e7c-13ae9fd50627"
-    },
-    "sentence": "Salmon is the least popular seafood.",
-    "correct_answer": "True",
-    "cefr_level": "b1",
-    "target_vocabulary": [
-        "salmon",
-        "prawns",
-        "crab"
-    ],
-    "target_grammar": [
-        "superlatives"
-    ],
-    "submitted": false,
-    "metadata": {
-        "model_alias": "fm-gai-lottie-true-false",
-        "model_version": "1.0"
-    }
-}
+[
+    {
+        "id": "30378a39-60b0-48d9-a0c4-77a410be32a2",
+        "media": {
+            "style": "colourful illustration",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/30378a39-60b0-48d9-a0c4-77a410be32a2"
+        },
+        "sentence": "I have bought a comb and a receipt from the market.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "knee",
+            "comb",
+            "castle",
+            "salmon",
+            "receipt"
+        ],
+        "target_grammar": [
+            "present perfect"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+      }
+]
+

@@ -1,0 +1,30 @@
+2024-09-30 11:14:52,565 INFO: Job run started. Calling route '/build'. Invoking 'build_route' method.
+2024-09-30 11:14:52,566 INFO: Activity data imported from data/input.json
+2024-09-30 11:14:52,566 INFO: ActivityService: Invoking 'analyze_sentence' method for sentence: 'The singularity has been reached.'
+2024-09-30 11:14:52,567 INFO: TextAnalyzer: Invoking 'assess_language_level' using cefrpy for sentence: 'The singularity has been reached.'
+2024-09-30 11:14:52,567 INFO: The : None
+2024-09-30 11:14:52,567 INFO: singularity : A2
+2024-09-30 11:14:52,567 INFO: has : A1
+2024-09-30 11:14:52,567 INFO: been : A2
+2024-09-30 11:14:52,567 INFO: reached : A2
+2024-09-30 11:14:52,567 INFO: ActivityService: Invoking 'build_activity' method
+2024-09-30 11:14:52,568 INFO: FMGAILottieTrueFalseActivityBuilder: 'set_activity_id' method invoked - Activity ID set to: 8b626da8-8555-456c-a80a-025e932e8fe0
+2024-09-30 11:14:52,568 INFO: FMGAILottieTrueFalseActivityBuilder: 'set_media' method invoked - Media set to: {'style': 'cyberpunk, futuristic and very vivid', 'image_src': None}
+2024-09-30 11:14:52,568 INFO: ImageGenerator: Invoking 'generate_image' method for image generation.
+2024-09-30 11:14:52,856 INFO: ImageGenerator: Invoking 'craft_prompt' method for DALL-E image generation.
+2024-09-30 11:15:13,781 INFO: ImageGenerator: Image generated successfully.
+2024-09-30 11:15:16,478 INFO: Image uploaded to S3 bucket with key: 8b626da8-8555-456c-a80a-025e932e8fe0
+2024-09-30 11:15:16,481 INFO: FMGAILottieTrueFalseActivityBuilder: 'set_image_src' method invoked - Image URL set to: https://s3.eu-central-1.amazonaws.com/jskramar.materials/8b626da8-8555-456c-a80a-025e932e8fe0
+2024-09-30 11:15:16,481 INFO: FMGAILottieTrueFalseActivityBuilder: 'set_sentence' method invoked - Sentence set to: The singularity has been reached.
+2024-09-30 11:15:16,481 INFO: FMGAILottieTrueFalseActivityBuilder: 'set_correct_answer' method invoked - Correct answer set to: True
+2024-09-30 11:15:16,482 INFO: FMGAILottieTrueFalseActivityBuilder: 'set_cefr_level' method invoked - CEFR level set to: c1
+2024-09-30 11:15:16,482 INFO: FMGAILottieTrueFalseActivityBuilder: 'set_target_vocabulary' method invoked - Target vocabulary set to: ['singularity', 'reach']
+2024-09-30 11:15:16,482 INFO: FMGAILottieTrueFalseActivityBuilder: 'set_target_grammar' method invoked - Target grammar set to: ['past perfect tense']
+2024-09-30 11:15:16,482 INFO: FMGAILottieTrueFalseActivityBuilder: 'set_submitted' method invoked - Submitted set to: False
+2024-09-30 11:15:16,482 INFO: FMGAILottieTrueFalseActivityBuilder: 'set_metadata' method invoked - Metadata set to: {'model_alias': 'fm-gai-lottie-true-false', 'model_version': '1.0'}
+2024-09-30 11:15:16,483 INFO: Activity data exported to data/output.json
+2024-09-30 11:15:16,484 INFO: Activity data appended to data/history.json
+2024-09-30 11:15:16,485 INFO: Log file renamed to data/logs/job_8b626da8-8555-456c-a80a-025e932e8fe0.log
+2024-09-30 11:15:17,011 INFO: Log file uploaded to S3 bucket with key: job_8b626da8-8555-456c-a80a-025e932e8fe0.log
+2024-09-30 11:15:17,011 INFO: Visit 'https://s3.eu-central-1.amazonaws.com/lottie.logs/job_8b626da8-8555-456c-a80a-025e932e8fe0.log'
+2024-09-30 11:15:18,727 INFO: Job run completed. Exit code 0

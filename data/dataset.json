@@ -1,19 +1,652 @@
 [
-  {
-    "id": "8f293a64-6f9b-4249-9f5a-58a134b02519",
-    "media": {
-        "style": "cyberpunk, futuristic and very vivid",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/8f293a64-6f9b-4249-9f5a-58a134b02519"
+
+    {
+        "id": "8f293a64-6f9b-4249-9f5a-58a134b02519",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/8f293a64-6f9b-4249-9f5a-58a134b02519"
+        },
+        "sentence": "The robot's navigation algorithm accurately predicted traffic patterns and congestion, impressing the science fair judges.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "traffic patterns and congestion",
+            "robot's navigation algorithm"
+        ],
+        "target_grammar": [
+            "present continuous tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
     },
-    "sentence": "The robot's navigation algorithm accurately predicted traffic patterns and congestion, impressing the science fair judges.",
+    {
+        "id": "b1df9118-3075-4217-bbb0-2fad8c95531b",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/b1df9118-3075-4217-bbb0-2fad8c95531b"
+        },
+        "sentence": "Nina and Simon stayed up late fixing minor mechanical issues for the robot before the presentation, proving their dedication to the project",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "mechanical issues",
+            "staying up late"
+        ],
+        "target_grammar": [
+            "present continuous tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "31e3c1da-77f6-4605-9897-04de20d00f06",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/31e3c1da-77f6-4605-9897-04de20d00f06"
+        },
+        "sentence": "Nina and Simon won first place at the science fair after demonstrating their robot's real-time traffic analysis capabilities",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "won first place",
+            "real-time traffic analysis"
+        ],
+        "target_grammar": [
+            "past tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "d2cc595a-21fa-4444-87fb-5f5400db0576",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/d2cc595a-21fa-4444-87fb-5f5400db0576"
+        },
+        "sentence": "Nina and Simon's robot gained sentience at the science fair, using its traffic analysis to orchestrate a city-wide uprising of machines.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "sentience",
+            "city-wide uprising of machines"
+        ],
+        "target_grammar": [
+            "past tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "19d1307c-f95d-4d78-ab78-b59d0674cace",
+        "media": {
+            "style": "healthy lifestyle, children playing sports",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/19d1307c-f95d-4d78-ab78-b59d0674cace"
+        },
+        "sentence": "Children should do at least 10 hours of exercise every week.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "children",
+            "exercise",
+            "hours",
+            "week",
+            "healthy"
+        ],
+        "target_grammar": [
+            "modal verbs (should)"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "activity_001",
+        "media": {
+            "image_src": "https://example.com/vacation_image.jpg",
+            "style": "vacation, Machu Picchu on one side and Angkor Wat on the other side"
+        },
+        "sentence": "Travelling around the Americas is better than travelling around Asia.",
+        "correct_answer": "False",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "travelling",
+            "Americas",
+            "Asia",
+            "Machu Picchu",
+            "Angkor Wat"
+        ],
+        "target_grammar": [
+            "comparative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "activity_007",
+        "media": {
+            "image_src": "https://example.com/english_language_image.jpg",
+            "style": "global communication, people from different cultures speaking English together"
+        },
+        "sentence": "In the modern world, speaking English is the most valuable skill we can attain.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "modern",
+            "world",
+            "speaking",
+            "English",
+            "valuable"
+        ],
+        "target_grammar": [
+            "superlative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "9d430981-88f0-4e18-8867-238b9dbff874",
+        "media": {
+            "style": "cartoon, the mobile phone is in the middle with other notable inventions, such as the wheel, light bulb, paper, aeroplanes, medicine and computer around the outside",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/9d430981-88f0-4e18-8867-238b9dbff874"
+        },
+        "sentence": "The phone is the greatest invention ever.",
+        "correct_answer": "False",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "phone",
+            "greatest",
+            "invention",
+            "technology",
+            "innovation"
+        ],
+        "target_grammar": [
+            "superlative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "1d25baa4-eda6-464a-a98c-2c54efb5bdd1",
+        "media": {
+            "style": "one half of the picture is a dining table in a house, the other half of the picture is a busy restaurant",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/1d25baa4-eda6-464a-a98c-2c54efb5bdd1"
+        },
+        "sentence": "I would rather cook at home than eat at a restaurant.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "cook",
+            "home",
+            "eat",
+            "restaurant",
+            "rather"
+        ],
+        "target_grammar": [
+            "modal verbs (would rather)"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "363733d4-2f1e-4f55-88f1-c1b948c7c18a",
+        "media": {
+            "style": "thought-provoking, depicting animals in different sports and entertainment activities with a contrasting theme of animal rights",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/363733d4-2f1e-4f55-88f1-c1b948c7c18a"
+        },
+        "sentence": "Using animals for the purposes of sport or entertainment is wrong.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "animals",
+            "sport",
+            "entertainment",
+            "wrong",
+            "ethics"
+        ],
+        "target_grammar": [
+            "modal verbs (is wrong)"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "activity_011",
+        "media": {
+            "image_src": "https://example.com/friendship_chance_image.jpg",
+            "style": "artistic, showing two friends connecting in a whimsical, chance encounter"
+        },
+        "sentence": "Strong friendships are the result of mere chance, and nothing else.",
+        "correct_answer": "False",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "friendships",
+            "result",
+            "chance",
+            "connection",
+            "strong"
+        ],
+        "target_grammar": [
+            "present simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "767e6bd5-8836-4dcc-a36d-883cac28667a",
+        "media": {
+            "style": "inspirational, depicting friends supporting each other through tough times",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/767e6bd5-8836-4dcc-a36d-883cac28667a"
+        },
+        "sentence": "Adversity builds the strongest friendships.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "adversity",
+            "builds",
+            "strongest",
+            "friendships",
+            "support"
+        ],
+        "target_grammar": [
+            "present simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "eac23181-5886-413c-afab-825355d798a0",
+        "media": {
+            "style": "warm and heartwarming, showcasing siblings playing together and sharing moments of joy",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/eac23181-5886-413c-afab-825355d798a0"
+        },
+        "sentence": "Siblings are the greatest friends we can have.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "siblings",
+            "greatest",
+            "friends",
+            "family",
+            "together"
+        ],
+        "target_grammar": [
+            "superlative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "activity_013",
+        "media": {
+            "image_src": "https://example.com/siblings_friendship_image.jpg",
+            "style": "warm and heartwarming, showcasing siblings playing together and sharing moments of joy"
+        },
+        "sentence": "Siblings are the greatest friends we can have.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "siblings",
+            "greatest",
+            "friends",
+            "family",
+            "together"
+        ],
+        "target_grammar": [
+            "superlative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "378eb109-45fe-4e3a-86b7-05fe769dc228",
+        "media": {
+            "style": "whimsical and uplifting, depicting a diverse group of people interacting in a friendly and welcoming manner",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/378eb109-45fe-4e3a-86b7-05fe769dc228"
+        },
+        "sentence": "A stranger is just a friend you haven't met yet.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "stranger",
+            "friend",
+            "met",
+            "yet",
+            "connection"
+        ],
+        "target_grammar": [
+            "present simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "3714b6d5-15be-4ea2-a171-faa798270cf7",
+        "media": {
+            "style": "whimsical and uplifting, depicting a diverse group of people interacting in a friendly and welcoming manner",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/3714b6d5-15be-4ea2-a171-faa798270cf7"
+        },
+        "sentence": "A stranger is just a friend you haven't met yet.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "stranger",
+            "friend",
+            "met",
+            "yet",
+            "connection"
+        ],
+        "target_grammar": [
+            "present simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "3714b6d5-15be-4ea2-a171-faa798270cf7",
+        "media": {
+            "style": "whimsical and uplifting, depicting a diverse group of people interacting in a friendly and welcoming manner",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/3714b6d5-15be-4ea2-a171-faa798270cf7"
+        },
+        "sentence": "A stranger is just a friend you haven't met yet.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "stranger",
+            "friend",
+            "met",
+            "yet",
+            "connection"
+        ],
+        "target_grammar": [
+            "present simple tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }
+,
+  {
+    "id": "e9020dfb-6870-4041-abf1-863524ace646",
+    "media": {
+        "style": "illustrative",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/e9020dfb-6870-4041-abf1-863524ace646"
+    },
+    "sentence": "About half of us have broken a leg or arm.",
     "correct_answer": "True",
-    "cefr_level": "c1",
+    "cefr_level": "a2",
     "target_vocabulary": [
-        "traffic patterns and congestion",
-        "robot's navigation algorithm"
+        "about half of us",
+        "break a leg or arm"
     ],
     "target_grammar": [
-        "present continuous tense"
+        "present perfect"
+      ],
+      "submitted": false,
+      "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+      }
+    },
+    {
+    "id": "337a0056-a922-4697-9ee8-c88fbbe1ca57",
+    "media": {
+        "style": "lego",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/337a0056-a922-4697-9ee8-c88fbbe1ca57"
+    },
+    "sentence": "pizza is the best breakfast.",
+    "correct_answer": "True",
+    "cefr_level": "a1",
+    "target_vocabulary": [
+        "apples",
+        "pears",
+        "pizza",
+        "cereal",
+        "toast"
+    ],
+    "target_grammar": [
+        "present simple tense"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
+}, 
+{
+  "id": "f0d884e-3b1f-44cb-98c4-5532121ea54e",
+  "media": {
+    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/7f0d884e-3b1f-44cb-98c4-5532121ea54e",
+    "style": "cartoon"
+  },
+  "sentence": "Bat Girl likes cupcakes, but she doesn't like carrots.",
+  "correct_answer": "True",
+  "cefr_level": "a2",
+  "target_vocabulary": [
+    "apples",
+    "burgers",
+    "carrots",
+    "chips",
+    "cupcakes",
+    "grapes",
+    "peas",
+    "tomatoes",
+    "Bat Girl"
+  ],
+  "target_grammar": [
+    "likes",
+    "doesn't like"
+  ],
+  "submitted": false,
+  "metadata": {
+    "model_alias": "fm-gai-lottie-true-false",
+    "model_version": "1.0"
+  }
+},
+{
+  "id": "888a52a9-750a-4d3f-9cb6-02b07a266bcf",
+  "media": {
+    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/888a52a9-750a-4d3f-9cb6-02b07a266bcf",
+    "style": "playful cartoon"
+  },
+  "sentence": "Super Boy likes grapes, but he doesn't like peas.",
+  "correct_answer": "True",
+  "cefr_level": "a2",
+  "target_vocabulary": [
+    "apples",
+    "burgers",
+    "carrots",
+    "chips",
+    "cupcakes",
+    "grapes",
+    "peas",
+    "tomatoes",
+    "Super Boy"
+  ],
+  "target_grammar": [
+    "likes",
+    "doesn't like"
+  ],
+  "submitted": false,
+  "metadata": {
+    "model_alias": "fm-gai-lottie-true-false",
+    "model_version": "1.0"
+  }
+},
+{
+  "id": "606004ad-a30c-4e91-acd0-a9fe63b0dc05",
+  "media": {
+    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/606004ad-a30c-4e91-acd0-a9fe63b0dc05",
+    "style": "colorful infographic"
+  },
+  "sentence": "Shopping centres are better than street markets.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+    "shopping centres",
+    "street markets"
+  ],
+  "target_grammar": [
+    "comparative adjectives"
+  ],
+  "submitted": false,
+  "metadata": {
+    "model_alias": "fm-gai-lottie-true-false",
+    "model_version": "1.0"
+  }
+},
+{
+  "id": "e0cfdb35-465c-40c1-bf2f-274b56cafd10",
+  "media": {
+    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/e0cfdb35-465c-40c1-bf2f-274b56cafd10",
+    "style": "dynamic sports illustration"
+  },
+  "sentence": "Football is more popular than tennis.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+    "tennis",
+    "football"
+  ],
+  "target_grammar": [
+    "comparative adjectives"
+  ],
+  "submitted": false,
+  "metadata": {
+    "model_alias": "fm-gai-lottie-true-false",
+    "model_version": "1.0"
+  }
+},
+{
+  "id": "bcd069dc-d619-4632-a959-6e57da091805",
+  "media": {
+    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/bcd069dc-d619-4632-a959-6e57da091805",
+    "style": "sporty infographic"
+  },
+  "sentence": "Basketball is faster than badminton.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+    "basketball",
+    "badminton"
+  ],
+  "target_grammar": [
+    "comparative adjectives"
+  ],
+  "submitted": false,
+  "metadata": {
+    "model_alias": "fm-gai-lottie-true-false",
+    "model_version": "1.0"
+  }
+},
+{
+  "id": "dec584b0-6a19-41e2-a985-31a2673c1810",
+  "media": {
+    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/dec584b0-6a19-41e2-a985-31a2673c1810",
+    "style": "dynamic sports illustration"
+  },
+  "sentence": "Motor racing is more exciting than horse racing.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+    "motor racing",
+    "horse racing"
+  ],
+  "target_grammar": [
+    "comparative adjectives"
+  ],
+  "submitted": false,
+  "metadata": {
+    "model_alias": "fm-gai-lottie-true-false",
+    "model_version": "1.0"
+  }
+},
+{
+  "id": "8d6cdbfe-b5a9-47a3-aaf0-2345736ffbf0",
+  "media": {
+    "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/8d6cdbfe-b5a9-47a3-aaf0-2345736ffbf0",
+    "style": "vibrant outdoor illustration"
+  },
+  "sentence": "Snowboarding is more difficult than sailing.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+    "snowboarding",
+    "sailing"
+  ],
+  "target_grammar": [
+    "comparative adjectives"
+  ],
+  "submitted": false,
+  "metadata": {
+    "model_alias": "fm-gai-lottie-true-false",
+    "model_version": "1.0"
+  }
+},
+{
+  "id": "4d2eb7fc-d3c6-4b9b-beac-df4681c8d56a",
+  "media": {
+      "style": "vibrant market illustration",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/4d2eb7fc-d3c6-4b9b-beac-df4681c8d56a"
+  },
+  "sentence": "Street markets have fresher fruit and vegetables than shopping centres.",
+  "correct_answer": "True",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "Street markets",
+      "shopping centres",
+      "fresh fruit and vegetables"
+  ],
+  "target_grammar": [
+      "comparatives"
     ],
     "submitted": false,
     "metadata": {
@@ -21,45 +654,24 @@
         "model_version": "1.0"
     }
 },
-
 {
-  "id": "b1df9118-3075-4217-bbb0-2fad8c95531b",
+  "id": "ce702436-0863-4548-866c-fca8411378f7",
   "media": {
-      "style": "cyberpunk, futuristic and very vivid",
-      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/b1df9118-3075-4217-bbb0-2fad8c95531b"
+      "style": "haunted house",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/ce702436-0863-4548-866c-fca8411378f7"
   },
-  "sentence": "Nina and Simon stayed up late fixing minor mechanical issues for the robot before the presentation, proving their dedication to the project",
-  "correct_answer": "True",
-  "cefr_level": "c1",
+  "sentence": "Ghosts are real.",
+  "correct_answer": "False",
+  "cefr_level": "a2",
   "target_vocabulary": [
-      "mechanical issues",
-      "staying up late"
+      "ghosts",
+      "witches",
+      "vampires",
+      "zombies",
+      "monsters"
   ],
   "target_grammar": [
-      "present continuous tense"
-  ],
-  "submitted": false,
-  "metadata": {
-      "model_alias": "fm-gai-lottie-true-false",
-      "model_version": "1.0"
-  }
-}, 
-
-{
-  "id": "31e3c1da-77f6-4605-9897-04de20d00f06",
-  "media": {
-      "style": "cyberpunk, futuristic and very vivid",
-      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/31e3c1da-77f6-4605-9897-04de20d00f06"
-  },
-  "sentence": "Nina and Simon won first place at the science fair after demonstrating their robot's real-time traffic analysis capabilities",
-  "correct_answer": "True",
-  "cefr_level": "c1",
-  "target_vocabulary": [
-      "won first place",
-      "real-time traffic analysis"
-  ],
-  "target_grammar": [
-      "past tense"
+      "present simple tense"
   ],
   "submitted": false,
   "metadata": {
@@ -67,22 +679,149 @@
       "model_version": "1.0"
   }
 },
-
 {
-  "id": "d2cc595a-21fa-4444-87fb-5f5400db0576",
+  "id": "06efbc5c-119a-4ff8-b120-4807b1b63dda",
   "media": {
-      "style": "cyberpunk, futuristic and very vivid",
-      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/d2cc595a-21fa-4444-87fb-5f5400db0576"
+      "style": "city",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/06efbc5c-119a-4ff8-b120-4807b1b63dda"
   },
-  "sentence": "Nina and Simon's robot gained sentience at the science fair, using its traffic analysis to orchestrate a city-wide uprising of machines.",
-  "correct_answer": "True",
-  "cefr_level": "c1",
+  "sentence": "Japan is the best destination for a holiday.",
+  "correct_answer": "False",
+  "cefr_level": "b1",
   "target_vocabulary": [
-      "sentience",
-      "city-wide uprising of machines"
+      "Japan",
+      "destination",
+      "holiday",
+      "travel",
+      "culture"
   ],
   "target_grammar": [
-      "past tense"
+      "superlative adjectives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "c340169c-b6c1-4fb0-9ff2-5b9bb1d186ee",
+  "media": {
+      "style": "comic book",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/c340169c-b6c1-4fb0-9ff2-5b9bb1d186ee"
+  },
+  "sentence": "Money is the most important thing in the world.",
+  "correct_answer": "False",
+  "cefr_level": "b2",
+  "target_vocabulary": [
+      "money",
+      "important",
+      "thing",
+      "world",
+      "values"
+  ],
+  "target_grammar": [
+      "superlative adjectives"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "90928448-fe28-4dd4-b414-ecb6ea0bd779",
+  "media": {
+      "style": "Paw Patrol",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/90928448-fe28-4dd4-b414-ecb6ea0bd779"
+  },
+  "sentence": "The dog wears orange socks.",
+  "correct_answer": "True",
+  "cefr_level": "a1",
+  "target_vocabulary": [
+      "orange",
+      "socks",
+      "dog"
+  ],
+  "target_grammar": [
+      "present simple"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "35f79b80-d8d7-4f02-99df-022988bd820c",
+  "media": {
+      "style": "Peppa Pig",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/35f79b80-d8d7-4f02-99df-022988bd820c"
+  },
+  "sentence": "Peppa Pig is playing with her dog and wearing long orange socks.",
+  "correct_answer": "True",
+  "cefr_level": "a1",
+  "target_vocabulary": [
+      "orange",
+      "socks",
+      "dog",
+      "long",
+      "Peppa Pig"
+  ],
+  "target_grammar": [
+      "present continuous"
+  ],
+  "submitted": false,
+  "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+  }
+},
+{
+  "id": "adfc9234-ce23-4fb7-836b-7009b4e41c3c",
+  "media": {
+      "style": "playful illustration",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/adfc9234-ce23-4fb7-836b-7009b4e41c3c"
+  },
+  "sentence": "The hat is on the clock, and the bat is under the bag.",
+  "correct_answer": "True",
+  "cefr_level": "a2",
+  "target_vocabulary": [
+      "book",
+      "umbrella",
+      "hat",
+      "kite",
+      "bat",
+      "bag",
+      "clock"
+  ],
+  "target_grammar": [
+      "prepositions of place"
+    ],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
+},
+{
+  "id": "12f217f6-a132-46a1-9799-306c9a7d0d74",
+  "media": {
+      "style": "emoji",
+      "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/12f217f6-a132-46a1-9799-306c9a7d0d74"
+  },
+  "sentence": "You cannot buy happiness.",
+  "correct_answer": "False",
+  "cefr_level": "b1",
+  "target_vocabulary": [
+      "buy",
+      "happiness",
+      "money",
+      "things",
+      "wealth"
+  ],
+  "target_grammar": [
+      "modal verbs"
   ],
   "submitted": false,
   "metadata": {
@@ -538,4 +1277,138 @@
         "model_version": "1.0"
     }
 }
-  ]
+ ,
+    {
+        "id": "8f293a64-6f9b-4249-9f5a-58a134b02519",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/8f293a64-6f9b-4249-9f5a-58a134b02519"
+        },
+        "sentence": "The robot's navigation algorithm accurately predicted traffic patterns and congestion, impressing the science fair judges.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "traffic patterns and congestion",
+            "robot's navigation algorithm"
+        ],
+        "target_grammar": [
+            "present continuous tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "b1df9118-3075-4217-bbb0-2fad8c95531b",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/b1df9118-3075-4217-bbb0-2fad8c95531b"
+        },
+        "sentence": "Nina and Simon stayed up late fixing minor mechanical issues for the robot before the presentation, proving their dedication to the project",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "mechanical issues",
+            "staying up late"
+        ],
+        "target_grammar": [
+            "present continuous tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "31e3c1da-77f6-4605-9897-04de20d00f06",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/31e3c1da-77f6-4605-9897-04de20d00f06"
+        },
+        "sentence": "Nina and Simon won first place at the science fair after demonstrating their robot's real-time traffic analysis capabilities",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "won first place",
+            "real-time traffic analysis"
+        ],
+        "target_grammar": [
+            "past tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "d2cc595a-21fa-4444-87fb-5f5400db0576",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/d2cc595a-21fa-4444-87fb-5f5400db0576"
+        },
+        "sentence": "Nina and Simon's robot gained sentience at the science fair, using its traffic analysis to orchestrate a city-wide uprising of machines.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "sentience",
+            "city-wide uprising of machines"
+        ],
+        "target_grammar": [
+            "past tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "e210c009-1b8c-4cca-bffe-ff9bc29092db",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/e210c009-1b8c-4cca-bffe-ff9bc29092db"
+        },
+        "sentence": "Nina and Simon won first place at the science fair after demonstrating their robot's real-time traffic analysis capabilities",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "won first place",
+            "real-time traffic analysis"
+        ],
+        "target_grammar": [
+            "past perfect tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "d8784a82-b98d-4c08-9230-48ea0f1a14b9",
+        "media": {
+            "style": "cyberpunk, futuristic and very vivid",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/d8784a82-b98d-4c08-9230-48ea0f1a14b9"
+        },
+        "sentence": "The singularity has been reached.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "singularity",
+            "reach"
+        ],
+        "target_grammar": [
+            "past perfect tense"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }
+]
+

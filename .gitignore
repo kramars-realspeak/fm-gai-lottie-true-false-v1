@@ -1,0 +1,12 @@
+# python cache files
+__pycache__/
+*.py[cod]
+
+# logs and runtime config files
+data/logs
+data/input.json
+data/output.json
+data/history.json
+
+# macos cache files
+.DS_Store
