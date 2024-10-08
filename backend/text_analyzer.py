@@ -13,13 +13,14 @@ Validate package installation by running the following commands:
 
 from cefrpy import CEFRAnalyzer
 from backend.helpers import setup_logger
-
+import spacy
 analyzer = CEFRAnalyzer()
 
 class TextAnalyzer:
     def __init__(self, sentence):
         self.sentence = sentence
         self.logger = setup_logger()
+        self.spacy_model = spacy.load("en_core_web_sm")
 
     def get_average_word_level_float(self, word):
         return analyzer.get_average_word_level_float(word)
@@ -33,3 +34,7 @@ class TextAnalyzer:
         for word in words:
             self.logger.info(f"{word} : {self.get_average_word_level_CEFR(word)}")
 
+    def assess_sentence_pos_spacy(self):
+        doc = self.spacy_model(self.sentence)
+        for token in doc: 
+            print(token.pos_)
