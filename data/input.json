@@ -1,22 +1,22 @@
 [
   {
-    "id": "activity_013",
+    "id": "activity_014",
     "media": {
-      "image_src": "https://example.com/countryside_vs_city_image.jpg",
-      "style": "2 separate scenes, one side showing serene countryside with elderly people enjoying nature, and the other side depicting a vibrant city life with young people"
+      "image_src": "https://example.com/moving_out_image.jpg",
+      "style": "independent living, showcasing different cozy apartments and the freedom of living alone, with elements like keys, boxes, and personal belongings"
     },
-    "sentence": "The elderly are more suited for the countryside whilst young people are suited for the city.",
+    "sentence": "I want to move out as soon as possible and live by myself.",
     "correct_answer": "True",
-    "cefr_level": "B2",
+    "cefr_level": "b1",
     "target_vocabulary": [
-      "elderly",
-      "suited",
-      "countryside",
-      "young",
-      "city"
+      "move out",
+      "as soon as possible",
+      "live",
+      "myself",
+      "independence"
     ],
     "target_grammar": [
-      "comparative structures"
+      "expressing desires"
     ],
     "submitted": false,
     "metadata": {

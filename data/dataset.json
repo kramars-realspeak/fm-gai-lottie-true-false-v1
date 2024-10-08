@@ -670,5 +670,105 @@
             "model_alias": "fm-gai-lottie-true-false",
             "model_version": "1.0"
         }
+    },
+    {
+        "id": "52908f75-a2c7-4235-9dc1-7b68aaa3f91b",
+        "media": {
+            "style": "collage of modern conveniences, such as smartphones, the internet, and transportation, contrasting with historical images of daily life",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/52908f75-a2c7-4235-9dc1-7b68aaa3f91b"
+        },
+        "sentence": "Life is easier today than at any other point in history.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "life",
+            "easier",
+            "today",
+            "history",
+            "conveniences"
+        ],
+        "target_grammar": [
+            "comparative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "96271460-ad65-4fde-8422-81bbfd42a58e",
+        "media": {
+            "style": "travel-themed, featuring landmarks from around the world with students engaging in cultural experiences",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/96271460-ad65-4fde-8422-81bbfd42a58e"
+        },
+        "sentence": "Studying abroad would be an amazing experience that I hope to do in the future.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "studying",
+            "abroad",
+            "amazing",
+            "experience",
+            "future"
+        ],
+        "target_grammar": [
+            "modal verbs (would like to)"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "9e32779a-6772-4dc3-878d-9eabf1e0c283",
+        "media": {
+            "style": "thought-provoking, depicting a timeline of life stages with challenges and achievements represented visually, showing a progression from childhood to adulthood",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/9e32779a-6772-4dc3-878d-9eabf1e0c283"
+        },
+        "sentence": "As you get older, life becomes more difficult.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "older",
+            "life",
+            "difficult",
+            "challenges",
+            "experiences"
+        ],
+        "target_grammar": [
+            "comparative adjectives"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "a77f5b49-75f7-4d2b-9ffb-c9227114a875",
+        "media": {
+            "style": "independent living, showcasing different cozy apartments and the freedom of living alone, with elements like keys, boxes, and personal belongings",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/a77f5b49-75f7-4d2b-9ffb-c9227114a875"
+        },
+        "sentence": "I want to move out as soon as possible and live by myself.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "move out",
+            "as soon as possible",
+            "live",
+            "myself",
+            "independence"
+        ],
+        "target_grammar": [
+            "expressing desires"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
     }
 ]

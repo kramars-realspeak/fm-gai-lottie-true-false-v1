@@ -1,21 +1,21 @@
 {
-    "id": "9c5fa9cf-a577-4cad-af68-3dab8fdd4ba7",
+    "id": "a77f5b49-75f7-4d2b-9ffb-c9227114a875",
     "media": {
-        "style": "futuristic, depicting a spaceship traveling through interstellar space with distant stars and planets",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/9c5fa9cf-a577-4cad-af68-3dab8fdd4ba7"
+        "style": "independent living, showcasing different cozy apartments and the freedom of living alone, with elements like keys, boxes, and personal belongings",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/a77f5b49-75f7-4d2b-9ffb-c9227114a875"
     },
-    "sentence": "Interstellar space travel will be possible in my lifetime.",
-    "correct_answer": "False",
-    "cefr_level": "c1",
+    "sentence": "I want to move out as soon as possible and live by myself.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
     "target_vocabulary": [
-        "interstellar",
-        "space",
-        "travel",
-        "possible",
-        "lifetime"
+        "move out",
+        "as soon as possible",
+        "live",
+        "myself",
+        "independence"
     ],
     "target_grammar": [
-        "future simple tense"
+        "expressing desires"
     ],
     "submitted": false,
     "metadata": {
