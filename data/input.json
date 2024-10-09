@@ -1,27 +1,26 @@
 [
-    {
-        "id": "",
-        "media": {
-          "image_src": "",
-          "style": "emoji"
-        },
-        "sentence": "You cannot buy happiness.",
-        "correct_answer": "False",
-        "cefr_level": "a2",
-        "target_vocabulary": [
-          "buy",
-          "happiness",
-          "money",
-          "things",
-          "wealth"
-        ],
-        "target_grammar": [
-          "modal verbs"
-        ],
-        "submitted": false,
-        "metadata": {
-          "model_alias": "fm-gai-lottie-true-false",
-          "model_version": "1.0"
-        }
-      }
+  {
+    "id": "tf-672712424822622722",
+    "media": {
+      "image_src": "media/img/leisure_activities_chart.png",
+      "style": "lego"
+    },
+    "sentence": "Cooking is easier than gardening.",
+    "correct_answer": "True",
+    "cefr_level": "b1",
+    "target_vocabulary": [
+      "chatting with friends",
+      "cooking",
+      "gardening",
+      "going shopping"
+    ],
+    "target_grammar": [
+      "comparatives"
+    ],
+    "submitted": false,
+    "metadata": {
+      "model_alias": "fm-gai-lottie-true-false",
+      "model_version": "1.0"
+    }
+  }
 ]
