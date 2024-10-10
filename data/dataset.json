@@ -770,5 +770,80 @@
             "model_alias": "fm-gai-lottie-true-false",
             "model_version": "1.0"
         }
+    },
+    {
+        "id": "e9b6f4b2-18a5-4338-b4bb-9682e8632b2f",
+        "media": {
+            "style": "adventure-themed, depicting a rugged campsite in Slovakia with elements of nature, warning signs, and potential hazards such as steep cliffs or wildlife",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/e9b6f4b2-18a5-4338-b4bb-9682e8632b2f"
+        },
+        "sentence": "Camping in Slovakia can be very dangerous.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "camping",
+            "Slovakia",
+            "dangerous",
+            "nature",
+            "adventure"
+        ],
+        "target_grammar": [
+            "modal verbs (can)"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "aea8f0f2-d057-4fdc-a048-61ec9af6f491",
+        "media": {
+            "style": "motivational, featuring individuals studying English in various professional environments, with visual elements representing career growth and opportunities",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/aea8f0f2-d057-4fdc-a048-61ec9af6f491"
+        },
+        "sentence": "The main reason I am learning English is that I think it will be better for my job prospects in the future.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "reason",
+            "learning",
+            "English",
+            "job prospects",
+            "future"
+        ],
+        "target_grammar": [
+            "expressing reasons"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "activity_018",
+        "media": {
+            "image_src": "https://example.com/friends_quote_image.jpg",
+            "style": "inspirational, featuring a collage of friends sharing moments together, with visuals of laughter, support, and bonds that resemble sibling-like relationships"
+        },
+        "sentence": "Friends are the siblings that God never gave us.",
+        "correct_answer": "True",
+        "cefr_level": "b2",
+        "target_vocabulary": [
+            "friends",
+            "siblings",
+            "God",
+            "relationships",
+            "support"
+        ],
+        "target_grammar": [
+            "expressing comparisons"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
     }
 ]

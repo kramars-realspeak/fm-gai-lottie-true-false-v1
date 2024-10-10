@@ -1,22 +1,22 @@
 [
   {
-    "id": "activity_014",
+    "id": "activity_020",
     "media": {
-      "image_src": "https://example.com/moving_out_image.jpg",
-      "style": "independent living, showcasing different cozy apartments and the freedom of living alone, with elements like keys, boxes, and personal belongings"
+      "image_src": "https://example.com/school_playground_image.jpg",
+      "style": "kid-friendly cartoon; lots of children playing in the playground with vibrant colors and fun activities"
     },
-    "sentence": "I want to move out as soon as possible and live by myself.",
-    "correct_answer": "True",
-    "cefr_level": "b1",
+    "sentence": "School is more fun than the playground.",
+    "correct_answer": "False",
+    "cefr_level": "a2",
     "target_vocabulary": [
-      "move out",
-      "as soon as possible",
-      "live",
-      "myself",
-      "independence"
+      "school",
+      "fun",
+      "playground",
+      "children",
+      "activities"
     ],
     "target_grammar": [
-      "expressing desires"
+      "comparative adjectives"
     ],
     "submitted": false,
     "metadata": {

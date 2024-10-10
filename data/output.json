@@ -1,21 +1,21 @@
 {
-    "id": "a77f5b49-75f7-4d2b-9ffb-c9227114a875",
+    "id": "07c98be8-e4f9-4cf2-9542-762e7e24b8cd",
     "media": {
-        "style": "independent living, showcasing different cozy apartments and the freedom of living alone, with elements like keys, boxes, and personal belongings",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/a77f5b49-75f7-4d2b-9ffb-c9227114a875"
+        "style": "kid-friendly cartoon; lots of children playing in the playground with vibrant colors and fun activities",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/07c98be8-e4f9-4cf2-9542-762e7e24b8cd"
     },
-    "sentence": "I want to move out as soon as possible and live by myself.",
-    "correct_answer": "True",
-    "cefr_level": "b1",
+    "sentence": "School is more fun than the playground.",
+    "correct_answer": "False",
+    "cefr_level": "a2",
     "target_vocabulary": [
-        "move out",
-        "as soon as possible",
-        "live",
-        "myself",
-        "independence"
+        "school",
+        "fun",
+        "playground",
+        "children",
+        "activities"
     ],
     "target_grammar": [
-        "expressing desires"
+        "comparative adjectives"
     ],
     "submitted": false,
     "metadata": {
