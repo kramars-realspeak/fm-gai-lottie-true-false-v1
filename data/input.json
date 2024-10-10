@@ -1,27 +1,2 @@
 [
-  {
-    "id": "activity_020",
-    "media": {
-      "image_src": "https://example.com/school_playground_image.jpg",
-      "style": "kid-friendly cartoon; lots of children playing in the playground with vibrant colors and fun activities"
-    },
-    "sentence": "School is more fun than the playground.",
-    "correct_answer": "False",
-    "cefr_level": "a2",
-    "target_vocabulary": [
-      "school",
-      "fun",
-      "playground",
-      "children",
-      "activities"
-    ],
-    "target_grammar": [
-      "comparative adjectives"
-    ],
-    "submitted": false,
-    "metadata": {
-      "model_alias": "fm-gai-lottie-true-false",
-      "model_version": "1.0"
-    }
-  }
 ]
