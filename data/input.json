@@ -1,25 +1,2 @@
 [
-  {
-    "id": "tf-629812424822622706",
-    "media": {
-      "image_src": "media/img/superlative_seafood_comparison.png",
-      "style": "colorful seafood illustration"
-    },
-    "sentence": "Salmon is the most popular seafood.",
-    "correct_answer": "True",
-    "cefr_level": "b1",
-    "target_vocabulary": [
-      "salmon",
-      "prawns",
-      "crab"
-    ],
-    "target_grammar": [
-      "superlatives"
-    ],
-    "submitted": false,
-    "metadata": {
-      "model_alias": "fm-gai-lottie-true-false",
-      "model_version": "1.0"
-    }
-  }
 ]
