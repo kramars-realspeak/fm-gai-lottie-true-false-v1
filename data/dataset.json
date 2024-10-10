@@ -1502,6 +1502,29 @@
       "model_alias": "fm-gai-lottie-true-false",
       "model_version": "1.0"
     }
-  }
+  }, 
+    {
+        "id": "d57a0bf5-9b05-4424-b30c-9f92c3c8b603",
+        "media": {
+            "style": "futuristic conceptual art",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/d57a0bf5-9b05-4424-b30c-9f92c3c8b603"
+        },
+        "sentence": "Innovative teaching methods could awaken interest in subjects, shaping future engagement.",
+        "correct_answer": "True",
+        "cefr_level": "c1",
+        "target_vocabulary": [
+            "awaken interest",
+            "key thought",
+            "subject"
+        ],
+        "target_grammar": [
+            ""
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }
 ]
 
