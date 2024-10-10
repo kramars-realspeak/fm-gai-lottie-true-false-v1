@@ -1,25 +1,3 @@
 [
-  {
-    "id": "tf-839712424822622733",
-    "media": {
-      "image_src": "media/img/emotions_and_needs.png",
-      "style": "colorful and engaging illustration"
-    },
-    "sentence": "I am often hungry after school.",
-    "correct_answer": "True",
-    "cefr_level": "a2",
-    "target_vocabulary": [
-      "hungry",
-      "thirsty",
-      "tired"
-    ],
-    "target_grammar": [
-      "present simple"
-    ],
-    "submitted": false,
-    "metadata": {
-      "model_alias": "fm-gai-lottie-true-false",
-      "model_version": "1.0"
-    }
-  }
 ]
+
