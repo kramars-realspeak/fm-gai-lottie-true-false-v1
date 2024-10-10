@@ -1822,8 +1822,33 @@
             "model_alias": "fm-gai-lottie-true-false",
             "model_version": "1.0"
         }
-
     },
+    {
+        "id": "f45d71e5-322d-4d24-9302-41c6ebafca50",
+        "media": {
+            "style": "bright and colorful illustration",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/f45d71e5-322d-4d24-9302-41c6ebafca50"
+        },
+        "sentence": "These are grapes, and those are carrots.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "grapes",
+            "carrots",
+            "coconuts",
+            "limes"
+        ],
+        "target_grammar": [
+            "these",
+            "those"
+],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+
     {
         "id": "05663388-dc24-428c-9f7e-50763726eb08",
         "media": {
@@ -1850,6 +1875,30 @@
         }
     },
     {
+        "id": "75997326-fe19-4281-a4c5-3672e5d1fe23",
+        "media": {
+            "style": "colorful produce display",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/75997326-fe19-4281-a4c5-3672e5d1fe23"
+        },
+        "sentence": "Those are limes, and these are coconuts.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "grapes",
+            "carrots",
+            "coconuts",
+            "limes"
+        ],
+        "target_grammar": [
+            "these",
+            "those"
+],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }, {
         "id": "9c5fa9cf-a577-4cad-af68-3dab8fdd4ba7",
         "media": {
             "style": "futuristic, depicting a spaceship traveling through interstellar space with distant stars and planets",
@@ -1925,6 +1974,29 @@
         }
     },
     {
+        "id": "b44c4206-28e0-411b-a181-dfbf86e276fa",
+        "media": {
+            "style": "lego",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/b44c4206-28e0-411b-a181-dfbf86e276fa"
+        },
+        "sentence": "Playing video games is more exciting than reading a book.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "listening to music",
+            "watching TV",
+            "playing video games",
+            "reading a book"
+        ],
+        "target_grammar": [
+            "comparatives"
+],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }, {
         "id": "7849e108-7f06-4f89-9f55-c76ffea02a62",
         "media": {
             "style": "2 separate scenes, one side showing serene countryside with elderly people enjoying nature, and the other side depicting a vibrant city life with young people",
@@ -1950,6 +2022,29 @@
         }
     },
     {
+        "id": "6f75c53c-47df-4eae-ac4a-e32a78ea7f78",
+        "media": {
+            "style": "lego",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/6f75c53c-47df-4eae-ac4a-e32a78ea7f78"
+        },
+        "sentence": "Listening to music is more relaxing than watching TV.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "listening to music",
+            "watching TV",
+            "playing video games",
+            "reading a book"
+        ],
+        "target_grammar": [
+            "comparatives"
+],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }, {
         "id": "52908f75-a2c7-4235-9dc1-7b68aaa3f91b",
         "media": {
             "style": "collage of modern conveniences, such as smartphones, the internet, and transportation, contrasting with historical images of daily life",
@@ -1975,6 +2070,29 @@
         }
     },
     {
+        "id": "a3be66b1-b767-43fe-b11f-b3f95a855737",
+        "media": {
+            "style": "lego",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/a3be66b1-b767-43fe-b11f-b3f95a855737"
+        },
+        "sentence": "Going shopping takes more time than cooking.",
+        "correct_answer": "True",
+        "cefr_level": "b1",
+        "target_vocabulary": [
+            "chatting with friends",
+            "cooking",
+            "gardening",
+            "going shopping"
+        ],
+        "target_grammar": [
+            "comparatives"
+],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }, {
         "id": "96271460-ad65-4fde-8422-81bbfd42a58e",
         "media": {
             "style": "travel-themed, featuring landmarks from around the world with students engaging in cultural experiences",
@@ -2000,6 +2118,29 @@
         }
     },
     {
+        "id": "3d4eaeb1-7870-4904-bb9c-21e416d28c8b",
+        "media": {
+            "style": "colorful illustrative scene",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/3d4eaeb1-7870-4904-bb9c-21e416d28c8b"
+        },
+        "sentence": "The crocodile swims in the river.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "zebra",
+            "hippo",
+            "elephant",
+            "crocodile"
+        ],
+        "target_grammar": [
+            "present simple"
+],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }, {
         "id": "9e32779a-6772-4dc3-878d-9eabf1e0c283",
         "media": {
             "style": "thought-provoking, depicting a timeline of life stages with challenges and achievements represented visually, showing a progression from childhood to adulthood",
@@ -2025,6 +2166,32 @@
         }
     },
     {
+        "id": "a35e58ba-5edc-4cdf-94fc-cf0cf5913409",
+        "media": {
+            "style": "colorful wildlife illustration",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/a35e58ba-5edc-4cdf-94fc-cf0cf5913409"
+        },
+        "sentence": "The elephant is big.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "monkey",
+            "fish",
+            "tiger",
+            "crocodile",
+            "elephant",
+            "zebra",
+            "hippo"
+        ],
+        "target_grammar": [
+            "present simple"
+],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }, {
         "id": "a77f5b49-75f7-4d2b-9ffb-c9227114a875",
         "media": {
             "style": "independent living, showcasing different cozy apartments and the freedom of living alone, with elements like keys, boxes, and personal belongings",
@@ -2050,6 +2217,32 @@
         }
     },
     {
+        "id": "4a730faa-442d-4ef4-97d3-9757da8f1810",
+        "media": {
+            "style": "vibrant and playful illustration",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/4a730faa-442d-4ef4-97d3-9757da8f1810"
+        },
+        "sentence": "The monkey climbs trees.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "monkey",
+            "fish",
+            "tiger",
+            "crocodile",
+            "elephant",
+            "zebra",
+            "hippo"
+        ],
+        "target_grammar": [
+            "present simple"
+],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }, {
         "id": "e9b6f4b2-18a5-4338-b4bb-9682e8632b2f",
         "media": {
             "style": "adventure-themed, depicting a rugged campsite in Slovakia with elements of nature, warning signs, and potential hazards such as steep cliffs or wildlife",
@@ -2075,6 +2268,29 @@
         }
     },
     {
+        "id": "0900c0e5-fd2c-4396-93e4-f5e8c3171b63",
+        "media": {
+            "style": "colorful and expressive illustration",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/0900c0e5-fd2c-4396-93e4-f5e8c3171b63"
+        },
+        "sentence": "Hot coffee makes me happy.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "cold",
+            "hot",
+            "happy",
+            "sad"
+        ],
+        "target_grammar": [
+            "present simple"
+],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }, {
         "id": "aea8f0f2-d057-4fdc-a048-61ec9af6f491",
         "media": {
             "style": "motivational, featuring individuals studying English in various professional environments, with visual elements representing career growth and opportunities",
@@ -2100,6 +2316,29 @@
         }
     },
     {
+        "id": "b6c1e44e-6be0-4d09-a858-453ed740cd18",
+        "media": {
+            "style": "whimsical illustration",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/b6c1e44e-6be0-4d09-a858-453ed740cd18"
+        },
+        "sentence": "Cold weather makes me sad.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "cold",
+            "hot",
+            "happy",
+            "sad"
+        ],
+        "target_grammar": [
+            "present simple"
+],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }, {
         "id": "activity_018",
         "media": {
             "image_src": "https://example.com/friends_quote_image.jpg",
@@ -2123,8 +2362,8 @@
             "model_alias": "fm-gai-lottie-true-false",
             "model_version": "1.0"
         }
-
-    }, 
+    }
+    ,
 
     {
     "id": "3bbbcd32-0426-49de-98bf-63ccd5878ad3",
@@ -2219,3 +2458,4 @@
     }
   }
 ]
+   
