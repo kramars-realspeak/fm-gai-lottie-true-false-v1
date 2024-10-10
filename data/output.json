@@ -1,20 +1,19 @@
 {
-    "id": "e871d186-163d-474c-a536-0db87b991958",
+    "id": "bd4133b7-52ca-4857-b45a-bcc2d337730f",
     "media": {
-        "style": "lego",
-        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/e871d186-163d-474c-a536-0db87b991958"
+        "style": "colorful and engaging illustration",
+        "image_src": null
     },
-    "sentence": "Cooking is easier than gardening.",
+    "sentence": "I am often hungry after school.",
     "correct_answer": "True",
-    "cefr_level": "b1",
+    "cefr_level": "a2",
     "target_vocabulary": [
-        "chatting with friends",
-        "cooking",
-        "gardening",
-        "going shopping"
+        "hungry",
+        "thirsty",
+        "tired"
     ],
     "target_grammar": [
-        "comparatives"
+        "present simple"
     ],
     "submitted": false,
     "metadata": {

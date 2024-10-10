@@ -668,6 +668,132 @@
             "model_alias": "fm-gai-lottie-true-false",
             "model_version": "1.0"
         }
+    },
+    {
+        "id": "3d4eaeb1-7870-4904-bb9c-21e416d28c8b",
+        "media": {
+            "style": "colorful illustrative scene",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/3d4eaeb1-7870-4904-bb9c-21e416d28c8b"
+        },
+        "sentence": "The crocodile swims in the river.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "zebra",
+            "hippo",
+            "elephant",
+            "crocodile"
+        ],
+        "target_grammar": [
+            "present simple"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "a35e58ba-5edc-4cdf-94fc-cf0cf5913409",
+        "media": {
+            "style": "colorful wildlife illustration",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/a35e58ba-5edc-4cdf-94fc-cf0cf5913409"
+        },
+        "sentence": "The elephant is big.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "monkey",
+            "fish",
+            "tiger",
+            "crocodile",
+            "elephant",
+            "zebra",
+            "hippo"
+        ],
+        "target_grammar": [
+            "present simple"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "4a730faa-442d-4ef4-97d3-9757da8f1810",
+        "media": {
+            "style": "vibrant and playful illustration",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/4a730faa-442d-4ef4-97d3-9757da8f1810"
+        },
+        "sentence": "The monkey climbs trees.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "monkey",
+            "fish",
+            "tiger",
+            "crocodile",
+            "elephant",
+            "zebra",
+            "hippo"
+        ],
+        "target_grammar": [
+            "present simple"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "0900c0e5-fd2c-4396-93e4-f5e8c3171b63",
+        "media": {
+            "style": "colorful and expressive illustration",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/0900c0e5-fd2c-4396-93e4-f5e8c3171b63"
+        },
+        "sentence": "Hot coffee makes me happy.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "cold",
+            "hot",
+            "happy",
+            "sad"
+        ],
+        "target_grammar": [
+            "present simple"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "b6c1e44e-6be0-4d09-a858-453ed740cd18",
+        "media": {
+            "style": "whimsical illustration",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/b6c1e44e-6be0-4d09-a858-453ed740cd18"
+        },
+        "sentence": "Cold weather makes me sad.",
+        "correct_answer": "True",
+        "cefr_level": "a2",
+        "target_vocabulary": [
+            "cold",
+            "hot",
+            "happy",
+            "sad"
+        ],
+        "target_grammar": [
+            "present simple"
+        ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
     }
     
 ]
