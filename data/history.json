@@ -130,5 +130,43 @@
             "model_alias": "fm-gai-lottie-true-false",
             "model_version": "1.0"
         }
+    },
+    {
+        "id": "72474c57-f5b7-463a-ad85-1d2bd8192b9d",
+        "media": {
+            "style": "lego",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/72474c57-f5b7-463a-ad85-1d2bd8192b9d"
+        },
+        "sentence": "A dog can fly in the sky like a bird.",
+        "correct_answer": false,
+        "cefr_level": "pre-a1",
+        "target_vocabulary": [
+            ""
+        ],
+        "target_grammar": [],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    },
+    {
+        "id": "0c9169b2-1276-43e4-88c6-0e8040e90bd5",
+        "media": {
+            "style": "lego",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/0c9169b2-1276-43e4-88c6-0e8040e90bd5"
+        },
+        "sentence": "A car is a type of fruit.",
+        "correct_answer": "False",
+        "cefr_level": "pre-a1",
+        "target_vocabulary": [
+            "car, apple, pen"
+        ],
+        "target_grammar": [],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
     }
 ]

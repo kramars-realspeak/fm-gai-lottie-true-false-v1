@@ -1,4 +1,5 @@
-document.addEventListener('DOMContentLoaded', () => {
+function renderActivity() {
+  console.log('Rendering activity...');
   fetch('data/output.json')
     .then(response => response.json())
     .then(jsonData => {
@@ -6,8 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
       document.querySelector('.image').innerHTML = `<img id="target_image" src="${jsonData.media.image_src}" alt="Image">`;
       document.getElementById('image_container').addEventListener('click', () => {
         window.open(jsonData.media.image_src, '_blank');
-      }
-      );
+      });
       document.getElementById('sentence').textContent = `${jsonData.sentence}`;
       const trueSpan = document.querySelector('#options_container .true');
       const falseSpan = document.querySelector('#options_container .false');
@@ -53,4 +53,34 @@ document.addEventListener('DOMContentLoaded', () => {
     .catch(error => {
       console.error('Error fetching data:', error);
     });
+}
+
+function generateActivity() {
+  const targetLevel = document.getElementById('target-level').value;
+  const targetVocabulary = document.getElementById('target-vocabulary').value;
+  const endpoint = '/generate-activity';
+  const payload = {
+    level: targetLevel,
+    vocabulary: targetVocabulary
+  };
+  fetch(endpoint, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify(payload)
+  })
+  .then(response => response.json())
+  .then(data => {
+    console.log('Activity generated. Response :', data);
+    renderActivity();
+  })
+  .catch(error => {
+    console.error('Error generating activity:', error);
+  });
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  document.getElementById('generate_activity_button').addEventListener('click', generateActivity);
+  renderActivity();
 });

@@ -5,7 +5,7 @@ The app.py file contains the main application logic.
 """
 
 
-from flask import Flask, render_template, send_from_directory
+from flask import Flask, render_template, send_from_directory, request
 from backend.activity_service import ActivityService
 from backend.helpers import setup_logger
 from backend.helpers import rename_log_file_to_activity_id
@@ -42,6 +42,18 @@ def build_activity():
                 </body>
             </html>
         '''
+    except Exception as e:
+        return f'Error: {e}'
+    
+@app.route('/generate-activity', methods=['POST'])
+def generate_activity():
+    data = request.get_json()
+    try:
+        logger.info(f"Job run started. Calling route '/generate-activity'. Invoking 'generate_activity' method.")
+        activity_service = ActivityService()
+        activity_service.generate_activity(data['level'], data['vocabulary'])
+        logger.info(f"Job run completed. Exit code 0")
+        return {'status': 'success'}
     except Exception as e:
         return f'Error: {e}'
 
