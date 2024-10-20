@@ -1,2 +1,4 @@
+flask==3.0.3p
 openai==1.45.0
 cefrpy==1.0.1
+boto3==1.35.44

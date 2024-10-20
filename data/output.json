@@ -1,2 +1,19 @@
-[
-]
+{
+    "id": "0c9169b2-1276-43e4-88c6-0e8040e90bd5",
+    "media": {
+        "style": "lego",
+        "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/0c9169b2-1276-43e4-88c6-0e8040e90bd5"
+    },
+    "sentence": "A car is a type of fruit.",
+    "correct_answer": "False",
+    "cefr_level": "pre-a1",
+    "target_vocabulary": [
+        "car, apple, pen"
+    ],
+    "target_grammar": [],
+    "submitted": false,
+    "metadata": {
+        "model_alias": "fm-gai-lottie-true-false",
+        "model_version": "1.0"
+    }
+}

@@ -8,24 +8,30 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/color-thief/2.3.2/color-thief.umd.js"></script>
 </head>
 <body>
-  <!-- <div class="activity-rules">
-    <h1>True or False Activity</h1>
-    <p>Students see a personalized image containing target vocabulary and grammar that they are expected to study this week. Subsequently, they should select whether the statement related to the image is true or false. If it is True, the answer will appear green, otherwise it will be red and strikethrough. Then a discussion should follow where students should practice the target vocabulary.</p>
-    <h2>Target Vocabulary</h2>
-    <ul>
-        <li>Vocabulary Item 1</li>
-        <li>Vocabulary Item 2</li>
-        <li>Vocabulary Item 3</li>
-    </ul>
-    <h2>Target Grammar</h2>
-    <ul>
-        <li>Grammar Point 1</li>
-        <li>Grammar Point 2</li>
-        <li>Grammar Point 3</li>
-    </ul>
-    <h2>CEFR Level</h2>
-    <p>B2</p>
-</div> -->
+  <div class="activity-rules">
+    <h1 class="lottie-header">[ LOTTIE ]<sup>™</sup></h1>
+
+    <h2>True or False?</h2>
+    <p class="Lottie-Text">Hi, I'm Lottie! Let's practice vocabulary together with 'True / False' statements. Before we start, please enter the words you would like to practice. </p>
+
+    <label for="target-level" class="target-level">Select CEFR Level :</label>
+    <select id="target-level" name="target-level" class="target-level">
+      <option value="pre-a1">pre-A1 Starters (6-7 years old)</option>
+      <option value="a1">A1 Movers (8-9 years old)</option>
+      <option value="a2">A2 Flyers (10-11 years old)</option>
+      <option value="b1">B1 PET (12-13 years old)</option>
+      <option value="b2">B2 FCE (14-15 years old)</option>
+      <option value="c1">C1 CAE (16-17 years old)</option>
+    </select>
+    <label for="target-vocabulary">Enter Vocabulary :</label>
+    <input type="text" class="target-vocabulary" id="target-vocabulary" name="target-vocabulary" placeholder="e.g. apple, car, banana...">
+    <br><br><br>
+    <input id="generate_activity_button" type="button" class="generate-activity" value="Generate Activity">
+
+    <br><br><br><br>
+    <h2>Your Activity : </h2>
+    <br>
+  </div>
   <div id="image_container" class="image">IMAGE</div>
   <div id="sentence_div"> <span id="sentence" class="sentence"></span></div>
   <br><br>

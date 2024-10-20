@@ -1,3 +1,30 @@
 [
+    {
+        "id": "337a0056-a922-4697-9ee8-c88fbbe1ca57",
+        "media": {
+            "style": "lego",
+            "image_src": "https://s3.eu-central-1.amazonaws.com/jskramar.materials/337a0056-a922-4697-9ee8-c88fbbe1ca57"
+        },
+        "sentence": "pizza is the best breakfast.",
+        "correct_answer": "True",
+        "cefr_level": "a1",
+        "target_vocabulary": [
+            "apples",
+            "pears",
+            "pizza",
+            "cereal",
+            "toast"
+        ],
+        "target_grammar": [
+            "present simple tense"
+          
+          ],
+        "submitted": false,
+        "metadata": {
+            "model_alias": "fm-gai-lottie-true-false",
+            "model_version": "1.0"
+        }
+    }
+   
 ]
 

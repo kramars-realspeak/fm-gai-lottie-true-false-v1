@@ -138,3 +138,51 @@ body {
   font-family: "Anybody", sans-serif;
   color: white;
 }
+
+.lottie-header {
+  font-size: 4em;
+  color: white;
+}
+
+.lottie-img {
+  margin-left: 3vw;
+  margin-right: 3vw;
+  margin-bottom: 2.5vw;
+  max-width: 10vw;
+  max-height: auto;
+}
+
+.target-vocabulary {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  padding: 5px;
+  border-radius: 0px;
+  font-size: 0.8em;
+}
+
+.target-vocabulary::placeholder {
+  color: white;
+}
+
+.target-level{
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  padding: 5px;
+  border-radius: 0px;
+  font-size: 0.8em;
+}
+
+.target-level::placeholder {
+  color: white;
+}
+
+.generate-activity {
+  cursor: pointer;
+  background-color: #EF543F;
+  font-size: 2em;
+  width: auto;
+  color: white;
+  border-radius: 0px;
+}
