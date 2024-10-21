@@ -23,7 +23,7 @@ class FmLottieConnector:
     
     def format_prompt(self, level, vocabulary):
         "Formats the prompt for the OpenAI API."
-        prompt = f"'\"target_vocabulary\": {vocabulary}', '\"cefr_level\": {level}'"
+        prompt = f"Create a True / False ESL actitivy. '\"target_vocabulary\": {vocabulary}', '\"cefr_level\": {level}'. Return the Keys 'sentence', 'correct_answer' in a JSON format."
         self.logger.info(f"{self.__class__.__name__}: Formatted prompt: '{prompt}'")
         return prompt
 
