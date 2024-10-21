@@ -23,7 +23,7 @@ class FmLottieConnector:
     
     def format_prompt(self, level, vocabulary):
         "Formats the prompt for the OpenAI API."
-        prompt = f"Generate a true / false ESL activity for the following sentence: '\"target_vocabulary\": {vocabulary}', '\"cefr_level\": {level}'"
+        prompt = f"'\"target_vocabulary\": {vocabulary}', '\"cefr_level\": {level}'"
         self.logger.info(f"{self.__class__.__name__}: Formatted prompt: '{prompt}'")
         return prompt
 
@@ -36,7 +36,7 @@ class FmLottieConnector:
                     "role": "system",
                     "content": [
                         {
-                            "text": "You are a helpful activity generator for language instructors. Based on the prompt output a structured activity in a JSON format. Base the sentence topic on the \"target_vocabulary\". Adhere to the language level in the attribute \"cefr_level\".  You are a helpful generator for language instructors creating a true / false ESL activity. Base the sentence topic on the 'target_vocabulary'. Adhere to the language level in the attribute 'cefr_level' . Your json response should return keys 'sentence', 'correct_answer': ",
+                            "text": "You are a helpful activity generator for language instructors. Create a structured True / False ESL activity in a JSON format. Base the sentence topic on the \"target_vocabulary\". You must never produce output on a higher cefr level than :  \"cefr_level\". Every single word must conform to that. Your json response should return keys 'sentence', 'correct_answer': ",
                             "type": "text"
                         }
                     ]
@@ -124,7 +124,7 @@ def get_secret_value(secret_id : str) -> str:
 def build_sentence(level, vocabulary):
     "Builds a sentence based on the level and vocabulary."
 
-    object_dict = FmLottieConnector().make_activity_sentence(level, vocabulary)
+    object_dict = FmLottieConnector().make_activity_sentence('pre-a1', vocabulary)
 
     output = {
         "sentence": object_dict.get("sentence"),
